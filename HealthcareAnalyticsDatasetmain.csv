@@ -1,0 +1,1001 @@
+PatientID,Age,Gender,Ethnicity,Location,DiseaseType,DiagnosisDate,HospitalVisits,ERVisits,DoctorVisits,TreatmentType,TreatmentOutcome,TreatmentDate,HealthcareCosts,InsuranceCoverage
+592436,26,Non-binary,African American,Robbinston,Eyesight Issues,0827-04-29,8,1,6,Other,Ongoing Treatment,2023-01-03,46140.34,No
+275386,42,Female,Hispanic,West Virginia,Chickenpox,1660-02-27,8,2,13,Physical Therapy,Relapse,2019-11-04,36982.34,No
+361885,61,Non-binary,African American,Lake Marissafurt,Chickenpox,0275-06-30,8,1,0,Other,Relapse,2021-12-05,12423.66,Yes
+220061,27,Male,Other,South Matthewstad,COVID-19,1715-03-03,9,4,2,Physical Therapy,Recovery,2023-10-01,24778.78,Yes
+655853,53,Female,Other,Michaelmouth,Diabetes,0181-05-09,1,0,5,Physical Therapy,Recovery,2023-09-17,1782.33,Yes
+394461,56,Male,Other,West Ann,Eyesight Issues,1520-02-03,1,0,11,Medication,Relapse,2022-09-20,20489.68,Yes
+354444,65,Female,Caucasian,South William,Asthma,0572-12-24,9,3,11,Medication,Relapse,2019-01-07,27825.04,No
+699758,42,Non-binary,Other,Christineton,High Blood Pressure,0287-12-28,8,5,10,Medication,Relapse,2019-07-31,13270.37,No
+780827,15,Non-binary,Caucasian,Jeremymouth,Chickenpox,0809-07-05,0,4,14,Physical Therapy,Ongoing Treatment,2021-11-24,16728.7,No
+729545,58,Male,African American,Leeburgh,Heart Attack,0680-06-06,2,2,9,Medication,Relapse,2023-08-15,30640.17,Yes
+326088,33,Non-binary,African American,South David,Chickenpox,0493-11-27,2,1,3,Physical Therapy,Recovery,2020-09-24,24896.71,No
+601588,17,Female,Caucasian,Port Lisa,High Blood Pressure,0909-11-05,6,0,0,Physical Therapy,Relapse,2019-11-04,33808.5,Yes
+302599,49,Female,Other,North Christineville,Eyesight Issues,0681-04-05,2,0,7,Physical Therapy,Recovery,2020-04-16,42060.88,Yes
+696069,56,Non-binary,Hispanic,Lake Robertshire,Heart Attack,1767-04-09,8,5,8,Physical Therapy,Recovery,2020-05-30,16772.73,Yes
+827987,80,Female,African American,Russellton,Cancer,0476-05-22,7,5,4,Other,Relapse,2019-01-09,13197.51,Yes
+241778,75,Non-binary,African American,Lake Samantha,COVID-19,1661-12-01,10,2,3,Physical Therapy,Relapse,2022-10-21,34078.52,Yes
+439925,32,Male,Hispanic,Hendricksville,Heart Attack,0804-03-25,6,2,15,Physical Therapy,Relapse,2019-11-03,10666.27,No
+311162,42,Non-binary,African American,South Matthewfort,Low Blood Pressure,1754-03-18,5,1,7,Medication,Recovery,2023-04-30,22244.89,No
+713825,23,Male,Caucasian,Moorebury,Eyesight Issues,0901-02-25,3,3,11,Medication,Recovery,2019-10-17,34889.55,No
+398155,40,Non-binary,Hispanic,North Regina,COVID-19,1335-03-23,2,3,15,Other,Relapse,2019-04-13,24042.18,Yes
+736543,61,Non-binary,Caucasian,East Alexandra,Chickenpox,1002-01-08,0,2,4,Other,Relapse,2021-08-11,47670.22,Yes
+592422,64,Female,Hispanic,Danielleland,Diabetes,0196-08-27,5,1,9,Medication,Relapse,2020-05-12,31679.68,Yes
+381809,46,Female,Other,Davidton,Heart Attack,0662-05-15,8,4,1,Physical Therapy,Recovery,2019-07-20,4667.09,No
+419181,21,Female,Caucasian,West Cindytown,Cancer,0981-01-19,2,4,3,Other,Relapse,2023-09-22,17381.14,Yes
+123190,66,Male,Caucasian,East Cameron,Diabetes,0427-06-27,2,4,2,Medication,Recovery,2022-03-26,17463.81,No
+574240,23,Male,Other,Wrightbury,Cancer,0436-11-16,3,2,2,Physical Therapy,Relapse,2021-01-10,8984.3,Yes
+197349,77,Male,Hispanic,New Tony,COVID-19,0797-07-03,0,0,6,Medication,Recovery,2020-03-24,35758.12,No
+221438,25,Male,Caucasian,Oliviachester,High Blood Pressure,1897-05-09,8,3,13,Medication,Recovery,2020-09-01,16981.8,Yes
+324575,21,Male,Hispanic,New Michaelfurt,Asthma,0487-10-04,7,1,13,Other,Recovery,2021-04-20,21593.6,No
+927718,76,Female,Caucasian,New Matthew,Diabetes,0258-05-23,9,3,12,Medication,Relapse,2021-11-10,27767.56,Yes
+993178,75,Female,Other,Lake Lonniemouth,Diabetes,1265-01-24,6,3,14,Medication,Ongoing Treatment,2019-01-05,42199.55,No
+293972,75,Non-binary,African American,Lake Michaelberg,Asthma,1098-05-15,1,4,7,Medication,Recovery,2019-12-30,13458.51,Yes
+902232,59,Non-binary,Caucasian,Pottsport,COVID-19,1048-08-13,2,5,13,Other,Ongoing Treatment,2021-05-16,25482.12,Yes
+223164,73,Female,African American,East Erinshire,Diabetes,0974-12-02,3,0,8,Other,Relapse,2019-06-18,43180.37,Yes
+261829,59,Female,African American,Lake Jacqueline,Eyesight Issues,0740-08-14,1,2,2,Physical Therapy,Relapse,2022-11-12,38600.0,Yes
+698376,59,Female,Other,West Brittany,Chickenpox,0762-05-26,3,2,6,Physical Therapy,Recovery,2022-06-22,41704.4,No
+426175,70,Male,African American,Leehaven,Heart Attack,1167-07-16,7,4,7,Medication,Ongoing Treatment,2021-05-01,20298.2,Yes
+299444,28,Female,African American,West Brian,Cancer,0592-04-13,6,3,13,Medication,Recovery,2021-06-27,34412.82,No
+876163,57,Non-binary,Caucasian,East James,High Blood Pressure,1594-06-17,6,0,15,Other,Relapse,2023-09-21,21643.24,No
+881475,73,Non-binary,African American,South Jeffrey,Chickenpox,1633-08-16,10,3,8,Physical Therapy,Recovery,2020-01-04,10535.2,Yes
+909172,16,Non-binary,Caucasian,South Robert,Diabetes,1366-05-02,2,3,13,Physical Therapy,Recovery,2022-10-08,46526.01,Yes
+535444,36,Non-binary,Caucasian,Millerstad,Chickenpox,0888-03-28,4,3,3,Medication,Relapse,2023-02-16,33066.3,No
+959910,53,Non-binary,Caucasian,Port Sandymouth,COVID-19,1408-04-07,3,1,3,Physical Therapy,Ongoing Treatment,2019-01-22,26785.43,No
+946251,51,Female,Hispanic,Bowmantown,Low Blood Pressure,1210-05-01,0,5,3,Medication,Ongoing Treatment,2022-10-16,5842.16,No
+634466,37,Non-binary,Hispanic,Robertmouth,Low Blood Pressure,0208-07-11,9,3,12,Physical Therapy,Relapse,2021-02-25,21306.33,No
+355054,38,Non-binary,Caucasian,Lake Kevin,Eyesight Issues,1795-06-12,4,3,4,Medication,Relapse,2019-06-11,37170.45,Yes
+876373,22,Male,African American,Danielberg,COVID-19,0274-07-02,3,0,6,Physical Therapy,Ongoing Treatment,2020-10-11,27838.55,Yes
+571507,63,Non-binary,Hispanic,West Elizabeth,Diabetes,1743-09-11,0,5,6,Medication,Relapse,2021-01-15,7763.94,Yes
+622697,59,Female,Hispanic,Moraleschester,Diabetes,1753-06-11,1,2,6,Physical Therapy,Recovery,2020-07-03,33363.4,No
+637938,42,Male,African American,Theresaport,Diabetes,0720-02-19,3,2,4,Physical Therapy,Relapse,2019-08-25,25003.21,Yes
+265250,52,Male,Other,Rubioburgh,Chickenpox,1448-11-19,8,0,13,Medication,Relapse,2023-02-07,10250.78,No
+409998,23,Non-binary,Other,Port Crystal,Heart Attack,0098-07-16,5,2,8,Medication,Recovery,2019-03-26,37661.47,No
+696361,23,Female,Caucasian,Ramseystad,High Blood Pressure,1845-05-31,5,5,2,Physical Therapy,Relapse,2020-10-18,24624.92,No
+107383,22,Male,Other,North Megantown,Cancer,1156-01-10,10,5,15,Physical Therapy,Ongoing Treatment,2019-07-22,19145.05,Yes
+737420,64,Non-binary,Hispanic,Bruceland,Chickenpox,1083-07-19,4,0,4,Other,Ongoing Treatment,2021-11-23,35060.47,Yes
+897666,25,Female,Hispanic,South Davidchester,Chickenpox,0504-09-06,6,1,13,Other,Ongoing Treatment,2020-01-05,44855.09,No
+676811,28,Male,African American,Nicholaston,Low Blood Pressure,1304-12-12,7,1,0,Medication,Recovery,2019-08-07,37241.78,No
+257049,51,Male,Caucasian,Brownshire,Low Blood Pressure,0469-04-20,10,4,5,Medication,Ongoing Treatment,2023-01-20,17665.23,Yes
+271943,28,Female,African American,Davischester,Heart Attack,0482-03-30,3,3,7,Medication,Ongoing Treatment,2019-07-02,45919.04,Yes
+424972,54,Non-binary,Caucasian,West Denise,High Blood Pressure,1176-04-25,2,5,7,Physical Therapy,Ongoing Treatment,2020-02-14,38717.37,Yes
+909014,68,Non-binary,Hispanic,Zacharymouth,Heart Attack,0487-11-04,9,1,12,Physical Therapy,Ongoing Treatment,2022-11-07,16347.37,Yes
+518538,64,Male,African American,Johnsonchester,Asthma,0702-08-19,10,1,6,Physical Therapy,Ongoing Treatment,2022-07-01,49227.2,No
+814018,63,Non-binary,African American,Ericfurt,Low Blood Pressure,0408-10-28,9,2,6,Physical Therapy,Ongoing Treatment,2021-08-17,20906.52,No
+179896,22,Non-binary,Other,East Nicholas,Eyesight Issues,0331-02-07,2,2,7,Other,Relapse,2022-11-13,27528.52,No
+558044,62,Male,Hispanic,North Kristihaven,Low Blood Pressure,0702-11-03,9,5,10,Medication,Relapse,2019-09-15,25342.76,No
+649346,76,Non-binary,Hispanic,South Charlesfurt,Asthma,0249-10-24,7,0,0,Other,Recovery,2020-10-19,13061.55,Yes
+646026,27,Female,Other,New Michael,Eyesight Issues,0274-12-10,9,1,14,Medication,Recovery,2020-06-11,37045.81,No
+470664,54,Male,Caucasian,Port Alexis,Cancer,0426-12-08,1,5,12,Other,Ongoing Treatment,2023-05-13,47885.89,Yes
+825684,72,Non-binary,Other,New Monique,Asthma,0530-05-20,2,1,4,Medication,Relapse,2022-11-08,31847.65,No
+628033,65,Non-binary,Other,Tateburgh,COVID-19,1189-12-13,9,4,7,Medication,Recovery,2019-09-25,24866.83,No
+742718,32,Male,Other,Steveport,Diabetes,1989-08-15,6,3,1,Physical Therapy,Relapse,2022-12-08,26724.47,No
+217335,32,Male,African American,North Mary,Low Blood Pressure,0440-03-09,6,0,7,Other,Relapse,2019-11-04,45041.17,Yes
+979820,44,Non-binary,Other,West Michaelshire,Asthma,1604-01-04,6,5,8,Medication,Ongoing Treatment,2020-03-19,28954.36,No
+489361,61,Female,Caucasian,Katherinemouth,High Blood Pressure,0120-08-11,2,3,10,Other,Relapse,2020-06-26,32501.43,Yes
+756369,24,Non-binary,Other,Petersenside,COVID-19,0319-07-03,8,4,4,Physical Therapy,Relapse,2019-04-25,45821.22,Yes
+544364,29,Male,Hispanic,West Devinside,Chickenpox,0523-09-09,6,4,1,Medication,Relapse,2021-12-17,5134.77,No
+275170,36,Non-binary,Other,Josemouth,Diabetes,1336-07-21,2,4,4,Other,Relapse,2022-01-28,35473.53,Yes
+395509,20,Non-binary,Other,Katherinemouth,Low Blood Pressure,1008-12-08,6,3,14,Physical Therapy,Relapse,2022-06-02,19501.96,No
+489015,50,Non-binary,African American,New Jesus,Eyesight Issues,1587-03-23,2,4,12,Other,Ongoing Treatment,2021-11-14,39471.82,Yes
+553711,75,Male,Hispanic,Davidmouth,High Blood Pressure,1375-09-05,7,3,3,Other,Recovery,2019-09-17,41009.59,Yes
+607142,48,Non-binary,Other,Lake Davidton,Heart Attack,1281-10-02,0,4,7,Medication,Ongoing Treatment,2019-09-21,27780.05,Yes
+921138,62,Female,African American,New Ericmouth,Heart Attack,0950-09-11,1,0,3,Physical Therapy,Recovery,2020-12-01,6127.85,No
+798025,48,Female,Other,Riverabury,Cancer,1776-04-19,9,0,12,Other,Ongoing Treatment,2020-04-20,33927.27,Yes
+134769,68,Non-binary,Hispanic,New Robert,Diabetes,1292-06-20,2,5,12,Physical Therapy,Ongoing Treatment,2023-04-20,9931.46,No
+173580,25,Non-binary,Hispanic,Charleston,Heart Attack,1792-03-09,2,2,11,Other,Relapse,2021-02-19,45545.99,Yes
+796610,50,Male,Hispanic,East Matthewborough,Low Blood Pressure,1055-09-06,4,2,12,Physical Therapy,Recovery,2023-01-09,23920.31,No
+473871,57,Female,African American,New Sandra,High Blood Pressure,1145-03-29,6,3,11,Medication,Recovery,2023-06-21,34403.05,Yes
+114224,63,Male,Other,South Robert,Asthma,1087-02-10,4,5,0,Other,Recovery,2022-07-24,39053.49,No
+764616,80,Female,Other,Shannonland,Cancer,0956-05-30,2,4,1,Medication,Relapse,2022-09-28,33278.42,Yes
+939008,76,Male,Other,East Mariahchester,Low Blood Pressure,1305-07-04,0,2,6,Medication,Recovery,2021-12-15,6453.62,Yes
+321650,29,Female,Caucasian,South Anthony,High Blood Pressure,0041-12-28,9,5,6,Medication,Relapse,2018-11-24,8254.93,No
+524451,74,Male,African American,West Candace,Heart Attack,1244-04-01,0,2,12,Physical Therapy,Relapse,2021-03-18,2025.16,Yes
+444981,69,Non-binary,Hispanic,South James,High Blood Pressure,0229-10-31,6,3,3,Medication,Ongoing Treatment,2022-01-01,31275.62,No
+747486,20,Male,Hispanic,Kirbyshire,Diabetes,1352-07-26,4,0,14,Medication,Relapse,2023-05-08,48950.33,No
+817760,74,Female,African American,North Andrewshire,Eyesight Issues,1289-06-16,10,1,6,Other,Relapse,2022-03-25,38115.6,No
+181115,20,Male,Hispanic,Susanshire,Eyesight Issues,0492-09-22,0,5,9,Medication,Recovery,2021-09-04,24974.59,Yes
+728245,74,Non-binary,Caucasian,Nolanborough,Heart Attack,0852-10-21,5,5,4,Other,Relapse,2019-06-24,40471.95,Yes
+726859,16,Non-binary,Other,Port Davidstad,COVID-19,0340-08-08,4,1,2,Physical Therapy,Recovery,2023-07-28,42470.88,Yes
+707088,42,Male,Hispanic,Kevinbury,Cancer,0508-11-24,2,1,12,Medication,Ongoing Treatment,2020-03-20,10140.5,No
+372016,29,Female,Other,Jessicastad,Heart Attack,1369-03-20,1,0,8,Other,Recovery,2018-12-29,20277.23,No
+799718,73,Female,Caucasian,New Joanne,Asthma,1072-04-06,3,3,8,Other,Ongoing Treatment,2018-12-14,7363.95,No
+298452,27,Female,Other,Mcleanshire,High Blood Pressure,0415-03-07,7,0,14,Other,Ongoing Treatment,2020-01-07,32602.97,No
+528055,69,Male,Hispanic,West Joannachester,Low Blood Pressure,0262-01-05,4,1,12,Other,Recovery,2019-04-22,40042.08,Yes
+844944,33,Female,Caucasian,Lake Alyssaville,Heart Attack,0996-05-15,8,1,15,Other,Ongoing Treatment,2019-03-20,31613.64,Yes
+575735,29,Female,African American,North Robertburgh,COVID-19,1285-11-21,5,4,1,Physical Therapy,Ongoing Treatment,2022-09-12,19822.84,Yes
+925143,61,Male,Other,Lake Cathyland,COVID-19,1534-01-28,4,2,9,Medication,Ongoing Treatment,2020-12-10,27538.65,Yes
+539271,55,Female,Caucasian,New Molly,High Blood Pressure,0623-09-21,10,1,3,Medication,Relapse,2022-06-12,23944.91,Yes
+507361,71,Non-binary,African American,West Theresa,Diabetes,1649-12-04,9,0,3,Medication,Recovery,2020-02-08,1463.55,No
+381128,70,Male,African American,Robertview,Asthma,0458-12-03,4,2,7,Other,Relapse,2020-05-08,33285.85,Yes
+174575,39,Female,African American,East Autumnfort,Eyesight Issues,0567-07-10,0,4,5,Physical Therapy,Ongoing Treatment,2020-02-25,39870.91,No
+934498,73,Male,Caucasian,New Nicholashaven,Chickenpox,1803-02-11,7,5,12,Medication,Relapse,2020-08-16,35733.88,No
+716089,30,Non-binary,Other,East Danielfurt,Eyesight Issues,1277-03-22,2,3,10,Other,Ongoing Treatment,2019-12-23,8797.67,No
+713223,74,Non-binary,Hispanic,Leahtown,Heart Attack,1932-02-26,9,3,13,Physical Therapy,Relapse,2021-06-10,12025.65,Yes
+729093,41,Female,African American,Nelsonfurt,COVID-19,1718-08-16,3,0,4,Medication,Relapse,2020-09-26,20890.36,Yes
+189071,56,Male,Other,Port Sarah,Asthma,1487-08-28,2,2,8,Other,Ongoing Treatment,2023-08-16,2453.76,Yes
+350437,63,Male,Caucasian,Randyview,Low Blood Pressure,1084-03-26,4,4,9,Physical Therapy,Ongoing Treatment,2019-12-25,44289.88,No
+792257,69,Non-binary,Caucasian,New Michael,Asthma,0084-01-06,10,3,5,Other,Ongoing Treatment,2023-06-06,28922.71,No
+914745,45,Male,African American,New Emily,Eyesight Issues,0507-05-18,1,3,12,Medication,Relapse,2023-08-16,24645.93,Yes
+100937,73,Non-binary,Caucasian,East Williammouth,Heart Attack,1358-01-13,1,0,14,Medication,Recovery,2022-01-10,29795.63,No
+237015,61,Non-binary,African American,Carolberg,Asthma,1644-06-22,9,5,8,Medication,Recovery,2020-02-22,28989.85,No
+909719,51,Female,Caucasian,Rodriguezbury,Diabetes,1256-09-15,10,2,12,Physical Therapy,Ongoing Treatment,2020-07-29,19883.87,Yes
+693899,37,Male,Caucasian,South Donnaland,Heart Attack,0204-08-14,5,1,12,Medication,Relapse,2021-12-11,38537.98,Yes
+644697,72,Non-binary,Other,Port Juanland,Cancer,1624-09-16,0,1,7,Other,Relapse,2020-08-16,39482.03,No
+952628,79,Non-binary,Other,North Scott,High Blood Pressure,0991-04-08,9,2,14,Physical Therapy,Relapse,2022-04-21,28721.99,Yes
+243236,74,Female,Other,Joshuatown,Asthma,0388-03-24,1,5,0,Medication,Ongoing Treatment,2021-03-15,38246.69,No
+745686,17,Non-binary,African American,West Andreafurt,COVID-19,1754-06-23,7,5,15,Physical Therapy,Recovery,2022-04-28,38901.2,No
+701827,32,Female,African American,East Chelseachester,COVID-19,0879-11-24,6,4,14,Medication,Ongoing Treatment,2020-12-12,44294.46,Yes
+157160,59,Female,Caucasian,Victoriaview,Low Blood Pressure,1836-02-21,5,0,0,Physical Therapy,Relapse,2019-06-19,46869.98,No
+527812,50,Non-binary,Hispanic,Ericfurt,Chickenpox,0428-06-13,9,3,7,Other,Relapse,2020-11-11,34836.93,No
+645374,39,Female,African American,East Rodneyville,COVID-19,0493-05-17,4,4,5,Physical Therapy,Recovery,2019-10-05,15358.01,No
+732861,16,Female,Caucasian,Smithton,Diabetes,1463-10-09,10,1,14,Other,Relapse,2019-08-04,3766.05,No
+632910,34,Male,African American,Staceyport,Chickenpox,1095-11-28,8,1,2,Medication,Ongoing Treatment,2020-05-20,24063.85,No
+224481,77,Non-binary,Hispanic,New Carol,Eyesight Issues,0793-05-28,10,1,4,Other,Recovery,2020-08-04,9073.79,Yes
+930934,22,Male,African American,Michaelland,COVID-19,0654-10-23,3,5,15,Other,Recovery,2021-11-12,12312.19,Yes
+212798,41,Female,African American,Gregorymouth,Diabetes,0327-03-22,1,0,0,Other,Relapse,2023-06-14,29432.38,Yes
+445391,47,Non-binary,Caucasian,Timothymouth,Asthma,1814-11-30,1,4,7,Physical Therapy,Recovery,2019-06-08,43472.88,Yes
+549090,56,Female,African American,New Sarahberg,Low Blood Pressure,0656-11-24,10,4,11,Medication,Ongoing Treatment,2023-04-30,48819.76,No
+452557,69,Male,African American,South Danielshire,Low Blood Pressure,1375-01-15,3,3,5,Physical Therapy,Recovery,2020-07-23,46283.64,No
+969148,72,Female,Other,West Toddborough,Diabetes,1308-08-19,3,4,14,Medication,Ongoing Treatment,2020-11-17,38298.77,No
+531084,27,Male,African American,Taylorview,Asthma,1748-06-06,10,0,11,Physical Therapy,Relapse,2019-03-15,31477.81,No
+957264,26,Male,African American,Lake Joshua,Asthma,0603-12-16,10,0,8,Physical Therapy,Relapse,2021-03-05,9506.35,No
+103756,34,Non-binary,African American,East Melissamouth,Diabetes,2002-04-15,10,4,3,Physical Therapy,Relapse,2022-12-05,41121.36,Yes
+920596,73,Female,Hispanic,New Joshua,High Blood Pressure,1846-06-24,7,5,12,Medication,Ongoing Treatment,2022-12-27,37479.9,No
+713206,22,Non-binary,Other,North Sandra,Low Blood Pressure,1269-09-15,1,3,9,Medication,Recovery,2018-10-07,41023.58,Yes
+486427,29,Non-binary,Hispanic,North Madisonville,Cancer,1785-01-30,0,5,14,Other,Ongoing Treatment,2022-01-14,27290.91,No
+268977,33,Female,Caucasian,New Melvintown,Eyesight Issues,1829-12-02,2,4,15,Physical Therapy,Relapse,2021-05-16,40045.77,No
+952350,52,Male,Other,Shawland,Cancer,1845-12-04,6,0,3,Medication,Ongoing Treatment,2021-12-15,27300.64,No
+156124,80,Female,Other,East Michael,Eyesight Issues,1821-04-12,8,4,10,Other,Ongoing Treatment,2019-05-04,19476.24,No
+973297,19,Male,Other,West Andrea,Cancer,1736-12-21,4,3,2,Medication,Relapse,2019-01-23,45700.59,Yes
+617801,64,Male,Other,Monicahaven,Chickenpox,0965-05-27,1,3,0,Other,Recovery,2020-04-06,29617.31,Yes
+610522,54,Female,Caucasian,Jessicaberg,Asthma,1164-12-28,8,5,0,Medication,Relapse,2022-08-15,32896.83,Yes
+133577,46,Non-binary,Other,Jacquelinemouth,High Blood Pressure,1918-12-12,8,4,10,Medication,Recovery,2023-08-13,42744.39,Yes
+219966,77,Non-binary,Hispanic,Daviesport,Low Blood Pressure,1126-07-08,6,5,8,Physical Therapy,Relapse,2023-07-12,33022.8,Yes
+586708,72,Non-binary,Hispanic,East Samuel,Cancer,1845-02-18,9,0,1,Other,Relapse,2019-01-10,39752.17,Yes
+332479,41,Female,African American,Marquezside,Asthma,1644-01-29,6,1,12,Physical Therapy,Relapse,2019-04-01,9148.65,Yes
+505455,24,Female,African American,Karenland,Low Blood Pressure,0875-02-04,1,0,8,Medication,Relapse,2019-03-31,32556.82,No
+605581,79,Male,African American,Brownfurt,Asthma,0611-06-29,9,5,5,Medication,Relapse,2020-09-01,43829.81,No
+655806,80,Male,Hispanic,Williambury,High Blood Pressure,0114-09-12,2,3,10,Other,Ongoing Treatment,2019-06-09,37304.54,No
+642382,51,Non-binary,Caucasian,Chavezport,Heart Attack,0439-02-15,0,4,3,Other,Recovery,2021-10-15,28718.45,Yes
+345947,68,Non-binary,Other,New Timothyborough,Cancer,1442-05-24,1,0,7,Medication,Recovery,2020-01-02,18193.16,No
+173105,37,Non-binary,Caucasian,Shawnville,Eyesight Issues,0721-12-01,7,2,15,Physical Therapy,Recovery,2019-02-02,49892.12,Yes
+449086,76,Male,African American,Lammouth,COVID-19,1978-09-15,6,4,5,Other,Recovery,2022-06-17,19271.53,No
+706379,79,Female,African American,Annfort,COVID-19,0774-08-04,4,3,2,Physical Therapy,Relapse,2020-10-19,6881.26,Yes
+530534,80,Non-binary,Caucasian,West Michellestad,Eyesight Issues,0741-12-01,7,5,7,Medication,Ongoing Treatment,2019-08-09,8620.4,Yes
+120708,66,Non-binary,Hispanic,Michaelhaven,Diabetes,1135-07-16,1,1,7,Other,Ongoing Treatment,2023-02-05,44258.65,Yes
+621849,21,Male,African American,Fullerburgh,Cancer,0555-08-18,6,5,0,Other,Ongoing Treatment,2018-10-13,34808.67,No
+288441,49,Male,Caucasian,Ericashire,Asthma,1613-04-08,9,2,7,Other,Ongoing Treatment,2022-04-17,25207.73,No
+663797,47,Female,Caucasian,Shannonfort,Diabetes,1388-06-06,1,2,1,Physical Therapy,Relapse,2020-10-23,21816.81,Yes
+710067,42,Non-binary,Hispanic,Lorichester,High Blood Pressure,0246-06-27,7,0,0,Medication,Ongoing Treatment,2021-02-09,17144.83,No
+811464,40,Male,African American,Lauriechester,Chickenpox,1904-12-01,0,2,3,Physical Therapy,Ongoing Treatment,2020-10-24,35341.18,Yes
+639189,37,Female,Hispanic,Port Tyler,Eyesight Issues,0361-09-25,6,1,8,Medication,Recovery,2018-11-25,22578.63,Yes
+730748,63,Female,Caucasian,Wallaceton,Low Blood Pressure,0909-09-16,3,5,11,Physical Therapy,Relapse,2023-08-08,23942.92,Yes
+581848,49,Non-binary,Hispanic,Lake Stephen,High Blood Pressure,0732-06-17,1,4,3,Physical Therapy,Recovery,2020-06-24,37112.87,No
+179926,65,Female,African American,Warnerland,Chickenpox,0527-03-06,1,2,14,Physical Therapy,Recovery,2020-03-10,23595.13,No
+396669,45,Female,African American,New James,High Blood Pressure,1972-10-05,10,2,3,Other,Relapse,2020-05-18,31822.86,No
+214603,46,Male,African American,Danielmouth,Eyesight Issues,0370-02-27,4,5,3,Physical Therapy,Ongoing Treatment,2019-09-23,46606.76,Yes
+983467,39,Female,Caucasian,Port Robertland,Chickenpox,1076-06-22,8,3,0,Physical Therapy,Ongoing Treatment,2021-06-23,24936.39,Yes
+446770,55,Male,Caucasian,Oliviaton,Diabetes,1088-04-09,4,5,3,Medication,Relapse,2019-11-10,49365.28,Yes
+104979,56,Non-binary,Hispanic,New Devin,Low Blood Pressure,0294-01-11,1,1,14,Medication,Recovery,2023-09-15,45667.14,No
+187639,29,Female,Caucasian,Gregoryview,High Blood Pressure,1036-08-22,1,1,0,Medication,Relapse,2021-12-23,5305.23,Yes
+435245,57,Male,African American,Port Oscar,Low Blood Pressure,1298-06-24,2,2,5,Physical Therapy,Ongoing Treatment,2020-08-29,42697.04,Yes
+357585,52,Non-binary,Caucasian,Steveborough,Diabetes,1920-10-26,3,0,2,Medication,Ongoing Treatment,2019-02-01,1485.07,No
+354273,16,Male,Caucasian,Jakechester,Heart Attack,1750-10-19,9,4,0,Other,Relapse,2023-02-19,34428.1,Yes
+941003,35,Female,African American,East Alfredtown,Asthma,1257-04-04,0,5,6,Other,Recovery,2020-12-15,14807.17,No
+499538,68,Non-binary,Hispanic,Lake Shawn,Asthma,1555-12-22,9,5,12,Medication,Recovery,2021-09-08,1524.8,No
+438237,34,Female,Other,Alexiston,Asthma,0844-06-01,8,3,7,Medication,Recovery,2022-06-18,42022.9,No
+151354,58,Non-binary,Other,Millerfurt,Asthma,1753-11-30,10,3,3,Physical Therapy,Recovery,2019-02-10,19332.99,No
+819586,22,Non-binary,Caucasian,South Amber,Diabetes,1993-04-01,4,0,11,Physical Therapy,Relapse,2020-10-24,40897.35,No
+489209,55,Female,African American,Manuelstad,Asthma,1084-03-03,4,3,5,Other,Ongoing Treatment,2019-01-13,43334.15,No
+189347,20,Male,African American,Abbotthaven,Chickenpox,0436-12-27,1,3,3,Medication,Relapse,2021-03-09,27877.95,No
+554874,56,Non-binary,Other,New Michaelmouth,Low Blood Pressure,0141-06-14,8,0,5,Other,Ongoing Treatment,2023-07-14,3946.18,Yes
+447449,67,Non-binary,Other,Sanderstown,Asthma,1698-07-03,8,2,12,Medication,Relapse,2020-01-06,11879.88,No
+434132,49,Male,Caucasian,East Michael,Eyesight Issues,0198-12-06,7,2,1,Physical Therapy,Recovery,2019-02-28,27248.11,Yes
+239749,31,Female,Hispanic,Smithville,Heart Attack,0668-08-05,9,4,7,Other,Relapse,2019-12-10,1567.95,No
+756516,36,Non-binary,Caucasian,Nguyenbury,Eyesight Issues,0320-12-07,5,3,2,Medication,Recovery,2019-04-02,11389.24,No
+518211,57,Male,Other,Port Jessica,Heart Attack,0131-12-02,6,5,11,Medication,Relapse,2023-09-21,29539.76,No
+446983,15,Non-binary,Caucasian,West Laurenbury,Diabetes,0670-11-17,3,2,5,Medication,Relapse,2021-02-06,28816.99,Yes
+663557,16,Non-binary,Hispanic,Anthonyside,Chickenpox,0724-01-07,0,4,15,Physical Therapy,Relapse,2021-05-30,26981.17,No
+242052,67,Female,African American,South Lori,Eyesight Issues,1656-06-08,2,3,3,Medication,Recovery,2023-08-12,34873.0,Yes
+482868,15,Male,Hispanic,Port Kristen,COVID-19,0177-01-27,8,2,15,Medication,Relapse,2020-01-18,34439.22,No
+197709,70,Female,African American,North Douglasside,Chickenpox,1808-02-28,7,0,11,Physical Therapy,Relapse,2019-02-24,21218.71,Yes
+575477,61,Female,Hispanic,South Richardbury,Eyesight Issues,1058-10-31,10,1,14,Medication,Ongoing Treatment,2023-08-21,30737.44,No
+129405,29,Male,Other,West Kathy,Cancer,1273-06-15,2,0,5,Other,Recovery,2019-09-13,26274.17,No
+663352,19,Male,Hispanic,Jenniferbury,COVID-19,0751-04-09,6,5,8,Medication,Recovery,2021-02-05,4088.82,Yes
+636943,80,Non-binary,Other,East Ashleyshire,Cancer,0438-03-08,4,0,5,Other,Recovery,2023-02-07,15482.18,No
+643078,39,Non-binary,Other,Stonechester,Heart Attack,0637-04-15,9,3,14,Physical Therapy,Recovery,2019-06-29,49865.18,Yes
+475743,48,Non-binary,African American,Thomasmouth,Chickenpox,1255-04-26,10,3,3,Physical Therapy,Recovery,2019-08-27,9561.8,No
+303140,33,Female,African American,Davidhaven,Low Blood Pressure,1339-04-03,6,0,7,Medication,Recovery,2019-02-17,6319.1,No
+999769,46,Female,Hispanic,Villanuevastad,High Blood Pressure,1280-07-24,3,3,4,Medication,Ongoing Treatment,2023-09-28,25273.47,Yes
+542370,24,Male,Caucasian,West Kyleshire,Asthma,0623-05-07,3,3,13,Other,Recovery,2022-12-01,48196.22,No
+329804,53,Female,Other,Shannontown,Eyesight Issues,1768-04-06,4,1,15,Medication,Recovery,2022-02-19,14758.48,Yes
+912630,21,Non-binary,Hispanic,Lake Angelside,Low Blood Pressure,1211-01-01,4,1,8,Medication,Ongoing Treatment,2023-06-02,39018.86,Yes
+440747,16,Female,Other,East Derekville,Cancer,1108-03-16,6,4,8,Physical Therapy,Ongoing Treatment,2021-06-04,5723.04,No
+323359,69,Female,Hispanic,West Kristy,High Blood Pressure,0181-03-09,6,4,5,Medication,Relapse,2022-05-31,34957.45,Yes
+800192,24,Non-binary,African American,Carrstad,Cancer,1134-03-16,8,5,8,Physical Therapy,Relapse,2023-06-24,25992.68,No
+379540,25,Male,African American,Martinside,COVID-19,1517-07-22,3,4,0,Physical Therapy,Ongoing Treatment,2019-06-30,30902.07,No
+549221,75,Male,Other,North Rachelberg,Asthma,1336-06-12,1,0,4,Medication,Recovery,2019-11-28,10301.3,Yes
+740810,16,Non-binary,Other,East Angela,Asthma,0710-03-19,10,1,2,Physical Therapy,Recovery,2021-10-17,40778.64,No
+262386,21,Non-binary,African American,New Isaac,High Blood Pressure,0432-01-06,4,1,7,Physical Therapy,Recovery,2022-08-31,42962.23,No
+684319,73,Female,Other,Troyport,Diabetes,0936-07-03,9,5,0,Physical Therapy,Relapse,2019-09-08,45771.87,No
+524081,24,Non-binary,Other,Sandramouth,Cancer,1885-07-26,2,2,13,Medication,Recovery,2021-06-11,26329.75,No
+450726,42,Non-binary,Hispanic,Rodriguezberg,Cancer,0691-04-05,1,1,14,Medication,Ongoing Treatment,2020-11-20,9118.23,Yes
+883203,25,Male,Hispanic,Port Mariaborough,Cancer,1436-01-31,0,5,14,Medication,Relapse,2019-09-06,32555.99,No
+482882,20,Non-binary,Hispanic,South Amy,Chickenpox,0528-02-29,0,4,0,Medication,Relapse,2023-01-08,40964.14,No
+155583,57,Male,Caucasian,Lake Pamela,Diabetes,1207-06-06,7,4,12,Physical Therapy,Ongoing Treatment,2020-08-20,20496.45,No
+790764,28,Non-binary,Caucasian,North Arthurside,Diabetes,1299-09-05,5,4,15,Physical Therapy,Relapse,2022-06-19,47143.79,Yes
+332459,30,Male,Other,Cunninghamshire,Low Blood Pressure,0348-01-26,3,3,5,Physical Therapy,Ongoing Treatment,2019-10-27,29575.74,No
+615895,63,Female,Hispanic,Larryton,Eyesight Issues,0842-03-07,10,1,0,Other,Ongoing Treatment,2022-04-23,3685.52,Yes
+983548,76,Female,Hispanic,North Michelle,Eyesight Issues,1687-01-05,1,2,11,Physical Therapy,Ongoing Treatment,2021-10-10,25783.38,Yes
+624377,68,Male,Caucasian,Lake Morgan,Cancer,1643-09-19,4,5,13,Physical Therapy,Relapse,2023-08-03,9145.62,Yes
+114581,31,Non-binary,Other,Williamshaven,Eyesight Issues,0589-07-13,9,4,10,Other,Relapse,2023-04-16,12302.87,No
+190657,15,Male,Other,Kimshire,Chickenpox,0650-10-27,6,5,12,Other,Relapse,2020-08-09,39227.67,Yes
+992676,32,Non-binary,Other,Dwaynebury,COVID-19,0620-03-13,7,3,4,Physical Therapy,Recovery,2019-11-12,3733.72,Yes
+585635,72,Non-binary,Hispanic,Michellestad,COVID-19,1064-08-26,8,1,11,Other,Recovery,2023-08-29,42647.56,Yes
+296617,40,Male,Caucasian,East Johnfurt,Asthma,0837-06-07,2,5,4,Other,Recovery,2023-07-26,13988.16,No
+574116,49,Female,Hispanic,North Melissaview,Diabetes,1830-01-07,3,1,10,Other,Relapse,2023-03-13,2049.03,No
+757692,17,Non-binary,Caucasian,New Kenneth,Low Blood Pressure,0389-12-27,9,5,10,Medication,Recovery,2021-09-30,34594.29,No
+730425,79,Female,Caucasian,West Cynthiaville,Chickenpox,0354-03-19,0,1,9,Medication,Recovery,2019-12-05,45131.78,No
+699240,63,Male,Other,North Amanda,High Blood Pressure,0120-08-04,0,4,12,Other,Recovery,2020-08-12,26593.44,Yes
+394910,60,Female,Other,New Ericfurt,Low Blood Pressure,1571-01-10,4,0,8,Medication,Ongoing Treatment,2021-04-20,20863.06,No
+746680,65,Male,Caucasian,Lake Mackenzieburgh,High Blood Pressure,1422-06-14,2,1,15,Physical Therapy,Relapse,2022-04-04,19179.57,Yes
+461460,36,Male,Other,Pamelatown,High Blood Pressure,0575-06-25,0,2,14,Other,Ongoing Treatment,2022-01-11,45856.91,No
+579738,59,Female,Other,Romeroport,COVID-19,1260-01-17,1,4,5,Other,Ongoing Treatment,2022-12-27,27298.81,Yes
+443543,55,Non-binary,Hispanic,North Taylor,Eyesight Issues,0969-04-12,8,3,6,Medication,Recovery,2020-11-01,12122.67,Yes
+347197,63,Non-binary,Other,Mckeeview,Cancer,0734-03-14,6,1,6,Physical Therapy,Relapse,2018-10-27,29281.31,Yes
+346764,69,Male,Caucasian,West Brianberg,Diabetes,2009-05-04,9,5,8,Physical Therapy,Ongoing Treatment,2021-07-04,19724.49,Yes
+477186,41,Non-binary,African American,East Mark,COVID-19,1777-04-23,5,3,1,Physical Therapy,Recovery,2023-09-03,2127.19,Yes
+866339,55,Female,African American,Port Stevetown,Cancer,1562-02-22,10,0,13,Other,Recovery,2020-04-30,30846.44,No
+655054,69,Female,African American,New Teresamouth,Chickenpox,1519-06-21,0,3,1,Medication,Recovery,2023-07-30,22780.3,No
+333247,58,Male,African American,Monicamouth,Diabetes,1083-07-18,2,4,9,Medication,Ongoing Treatment,2021-10-14,30558.01,No
+526973,61,Male,Caucasian,Port Jennifer,Asthma,1893-11-21,9,5,7,Medication,Relapse,2018-12-15,18158.28,Yes
+391196,57,Female,Hispanic,Lake Robert,High Blood Pressure,1233-09-10,0,4,13,Medication,Relapse,2019-07-06,39956.3,No
+623296,78,Male,Caucasian,North Amyland,Eyesight Issues,2011-04-01,8,2,15,Physical Therapy,Recovery,2022-07-03,8489.29,Yes
+167014,19,Non-binary,Caucasian,Christopherburgh,Chickenpox,0369-12-31,3,3,2,Medication,Recovery,2023-04-01,32177.55,Yes
+599204,75,Non-binary,Other,Costaton,Eyesight Issues,1335-09-03,8,0,12,Medication,Relapse,2022-03-09,25910.43,Yes
+627185,39,Male,Caucasian,South Rileyview,Eyesight Issues,1506-02-27,1,2,11,Medication,Relapse,2021-06-13,34204.94,Yes
+571354,55,Female,Other,Debraview,Heart Attack,0767-04-16,7,2,8,Other,Ongoing Treatment,2019-04-20,32100.29,No
+235455,21,Non-binary,Hispanic,South Scottstad,Asthma,1910-07-26,4,4,8,Other,Ongoing Treatment,2022-09-17,14483.0,Yes
+451359,60,Non-binary,Other,Sheltonmouth,Cancer,1722-10-12,9,4,1,Physical Therapy,Recovery,2020-05-18,47590.86,Yes
+921687,47,Male,Hispanic,East Jonburgh,Heart Attack,0535-07-05,2,4,3,Medication,Relapse,2021-04-07,28525.86,No
+134276,57,Male,Other,Bautistaburgh,Heart Attack,0538-01-06,7,3,8,Medication,Ongoing Treatment,2023-04-18,4332.27,Yes
+783312,64,Non-binary,African American,North Johnmouth,Eyesight Issues,1950-08-08,9,0,7,Physical Therapy,Relapse,2019-09-09,47804.28,Yes
+850831,62,Male,Caucasian,North Tammytown,Cancer,0456-06-02,5,5,4,Other,Recovery,2023-09-24,12344.9,Yes
+277984,39,Female,Hispanic,Hamiltonmouth,Asthma,0941-11-20,2,0,10,Other,Recovery,2022-05-08,43264.34,Yes
+124271,29,Female,African American,Jordanberg,Heart Attack,1912-01-02,8,4,3,Physical Therapy,Relapse,2019-08-10,46452.53,Yes
+876809,26,Female,Hispanic,East Calebberg,Eyesight Issues,1659-02-03,4,2,4,Medication,Relapse,2019-08-16,10838.57,Yes
+842136,24,Male,Other,Claudiafurt,Eyesight Issues,1188-09-30,9,1,0,Medication,Recovery,2021-03-20,11250.31,Yes
+201418,32,Non-binary,Hispanic,Lake Jocelyn,Cancer,1945-06-23,6,1,5,Physical Therapy,Relapse,2023-08-19,38107.38,No
+893161,67,Non-binary,Other,North Robert,COVID-19,1954-02-02,5,2,14,Medication,Ongoing Treatment,2019-07-25,35048.3,No
+639524,55,Non-binary,Hispanic,South Karenbury,High Blood Pressure,0932-02-15,8,1,4,Physical Therapy,Ongoing Treatment,2020-07-26,33217.0,Yes
+496327,35,Female,African American,Lake Sheila,Heart Attack,0400-11-27,3,2,15,Physical Therapy,Relapse,2021-01-21,7774.71,Yes
+124877,70,Non-binary,Other,Higginsport,Heart Attack,0478-07-03,1,0,6,Other,Relapse,2018-12-01,37297.8,No
+216207,47,Male,African American,Lake Jennifer,High Blood Pressure,0363-12-11,10,4,12,Medication,Recovery,2021-11-28,38824.01,Yes
+375916,15,Non-binary,Hispanic,Port Cynthia,Asthma,0025-02-18,8,2,6,Physical Therapy,Recovery,2022-06-24,43477.88,No
+456531,68,Non-binary,African American,Floresberg,Asthma,1912-06-23,2,1,9,Other,Recovery,2022-10-15,42211.1,Yes
+100647,27,Non-binary,African American,Sanchezville,High Blood Pressure,1425-04-19,5,3,12,Medication,Relapse,2021-09-04,43545.24,Yes
+137453,30,Male,Caucasian,Michaelbury,Low Blood Pressure,0380-11-06,2,4,12,Medication,Relapse,2023-04-17,30672.97,Yes
+220385,19,Non-binary,Caucasian,Whitemouth,Diabetes,1443-04-15,0,3,15,Medication,Ongoing Treatment,2020-07-06,24801.5,No
+243072,58,Female,Hispanic,New Matthewhaven,COVID-19,0347-11-09,7,2,11,Other,Recovery,2021-05-16,27287.49,Yes
+332685,15,Male,Caucasian,Simpsonville,Low Blood Pressure,0813-01-09,3,5,15,Physical Therapy,Relapse,2020-08-02,10741.72,Yes
+331068,78,Female,Hispanic,Hendrixmouth,COVID-19,1614-09-11,5,0,0,Other,Recovery,2020-12-01,38830.85,No
+566176,22,Male,Hispanic,South Lisa,Asthma,0314-01-05,3,0,10,Physical Therapy,Ongoing Treatment,2023-01-12,4619.97,Yes
+708332,23,Non-binary,African American,Port Jose,COVID-19,0302-02-10,7,0,1,Medication,Relapse,2023-08-26,16042.24,Yes
+339616,60,Non-binary,Caucasian,Lake Jasonmouth,Low Blood Pressure,0386-02-28,4,3,3,Medication,Ongoing Treatment,2019-12-09,25851.32,Yes
+478294,33,Non-binary,Caucasian,South Cynthiaborough,Cancer,1255-09-14,7,1,11,Other,Relapse,2020-01-10,30030.29,Yes
+899378,34,Female,Other,Lake Coryland,High Blood Pressure,1610-11-01,1,4,9,Other,Ongoing Treatment,2023-04-06,33035.72,Yes
+574436,39,Female,African American,Port Claire,Asthma,0079-12-16,10,0,6,Other,Relapse,2019-11-18,20361.51,No
+905495,40,Female,Other,North Eduardo,Chickenpox,1373-11-02,3,0,4,Physical Therapy,Recovery,2020-09-08,41464.19,No
+539402,43,Male,African American,South Kennethbury,Diabetes,1755-10-23,3,2,15,Other,Relapse,2020-11-09,37448.73,Yes
+324455,52,Female,Other,Mariamouth,Cancer,1176-06-11,4,5,0,Physical Therapy,Ongoing Treatment,2020-09-17,17946.8,Yes
+558717,55,Male,African American,Rodriguezport,Low Blood Pressure,0419-10-30,1,1,14,Other,Ongoing Treatment,2021-03-07,7113.1,Yes
+234407,58,Non-binary,Other,Brandonshire,Chickenpox,1824-03-27,1,5,13,Physical Therapy,Recovery,2023-05-07,33459.39,Yes
+481429,63,Non-binary,Hispanic,Brooksstad,Diabetes,0183-08-03,2,5,10,Other,Recovery,2023-03-06,32803.2,No
+972251,15,Non-binary,African American,Port Angelashire,Asthma,1429-10-11,1,1,0,Other,Ongoing Treatment,2022-09-06,3316.07,Yes
+162878,47,Female,Hispanic,Reneeborough,Heart Attack,1429-05-20,4,4,13,Physical Therapy,Relapse,2018-12-13,25034.64,Yes
+142745,70,Male,African American,New Markhaven,Chickenpox,1993-07-17,0,4,15,Other,Ongoing Treatment,2021-07-05,10645.19,No
+564193,70,Male,Caucasian,Marquezfort,Asthma,1562-11-03,3,0,1,Other,Relapse,2023-04-28,12120.47,No
+726422,48,Non-binary,Caucasian,Lindseychester,Eyesight Issues,0446-10-29,0,4,11,Medication,Ongoing Treatment,2019-05-07,12210.27,Yes
+524206,50,Non-binary,Other,South Alexanderberg,Diabetes,0634-07-24,6,4,2,Other,Relapse,2023-04-30,20380.91,Yes
+807347,51,Female,African American,Martinfort,Cancer,0807-04-18,8,2,15,Other,Relapse,2021-11-04,6400.65,Yes
+182913,65,Female,Other,Smithbury,Diabetes,1926-04-25,10,2,8,Physical Therapy,Relapse,2019-01-30,17673.83,No
+570592,43,Female,Caucasian,Richardsshire,Heart Attack,0660-03-29,1,0,6,Medication,Ongoing Treatment,2020-06-14,14147.26,Yes
+582656,56,Male,Caucasian,Lake Matthew,COVID-19,0122-12-23,8,0,10,Other,Recovery,2019-05-24,42071.45,Yes
+182034,66,Female,African American,West Vickichester,COVID-19,1199-04-12,1,1,5,Other,Recovery,2023-01-14,31219.35,No
+447007,46,Non-binary,Hispanic,Williamborough,Eyesight Issues,1116-09-06,2,3,13,Physical Therapy,Relapse,2021-03-25,2106.41,Yes
+647812,76,Male,Other,New Matthew,Eyesight Issues,0779-05-17,0,2,3,Other,Recovery,2023-06-11,43989.78,No
+710462,40,Male,Hispanic,Taylorstad,Asthma,0325-12-12,4,4,2,Other,Recovery,2023-06-22,22367.19,Yes
+144532,43,Female,Other,Gloriabury,Cancer,0264-09-05,0,2,5,Other,Recovery,2020-10-12,30332.79,No
+195092,74,Female,Other,New April,Eyesight Issues,1724-11-26,2,5,2,Other,Ongoing Treatment,2021-10-24,29309.63,Yes
+257740,31,Non-binary,African American,Port Michelle,Low Blood Pressure,1568-08-09,6,1,8,Other,Ongoing Treatment,2020-04-21,45770.1,Yes
+951385,61,Female,Other,Richardburgh,High Blood Pressure,0749-02-16,8,5,15,Other,Recovery,2020-06-29,22132.01,Yes
+788630,67,Female,Caucasian,Dannyview,Heart Attack,0328-03-08,5,4,2,Medication,Relapse,2019-04-25,1098.88,Yes
+781025,51,Male,Caucasian,Petersonton,Low Blood Pressure,0526-02-21,2,5,4,Medication,Relapse,2021-05-05,22330.93,Yes
+694699,77,Non-binary,African American,New Timothy,Cancer,1217-10-24,5,0,0,Medication,Relapse,2020-01-28,28410.48,No
+857830,67,Male,Hispanic,Grahamfurt,Eyesight Issues,0538-11-21,9,0,1,Other,Recovery,2021-10-02,14006.73,No
+104803,29,Non-binary,Hispanic,Anneview,High Blood Pressure,0993-03-06,3,0,8,Physical Therapy,Recovery,2020-11-02,39618.12,Yes
+334641,53,Female,Hispanic,Westmouth,High Blood Pressure,1737-06-17,5,3,1,Medication,Relapse,2019-02-04,42374.98,No
+920038,42,Male,Other,Walkerhaven,COVID-19,0653-09-27,10,5,10,Other,Ongoing Treatment,2021-07-08,41046.31,No
+556676,45,Non-binary,Other,Timothystad,Eyesight Issues,1316-04-11,7,4,8,Medication,Recovery,2019-01-05,25423.01,No
+476191,62,Female,Caucasian,Theresaberg,Eyesight Issues,1865-09-30,6,4,14,Other,Ongoing Treatment,2022-02-13,39191.88,Yes
+833050,53,Female,Caucasian,South Andrewstad,COVID-19,1869-08-19,7,3,6,Medication,Relapse,2021-11-06,21978.21,No
+602001,80,Female,Hispanic,New Maria,Asthma,1249-04-29,5,0,12,Other,Relapse,2022-09-16,16429.94,No
+265021,66,Male,Other,West Joshualand,Heart Attack,0762-08-28,9,4,7,Other,Ongoing Treatment,2020-11-24,11184.52,Yes
+415289,47,Female,Hispanic,South Dustin,Low Blood Pressure,0944-12-23,9,1,11,Physical Therapy,Recovery,2020-11-02,46001.97,Yes
+269279,33,Non-binary,African American,North Sherylborough,Asthma,0220-11-30,6,1,15,Physical Therapy,Recovery,2019-04-26,3806.17,No
+570819,62,Female,Hispanic,Whiteborough,Diabetes,1707-12-24,6,4,12,Medication,Ongoing Treatment,2020-06-17,46156.54,No
+534551,23,Non-binary,Other,East Shawn,Heart Attack,0843-11-15,4,3,14,Other,Recovery,2023-09-09,6571.98,Yes
+986728,50,Female,Other,Phamborough,Eyesight Issues,0383-10-02,9,4,15,Physical Therapy,Ongoing Treatment,2019-06-11,18556.58,No
+538896,19,Female,Caucasian,Lake Mark,Low Blood Pressure,0129-06-27,6,1,15,Physical Therapy,Ongoing Treatment,2021-12-26,3809.61,Yes
+443714,30,Male,Other,Maryside,Low Blood Pressure,1555-09-07,1,4,6,Physical Therapy,Relapse,2023-02-21,41029.56,Yes
+206782,50,Female,Other,New Douglas,COVID-19,1311-05-01,1,1,5,Other,Ongoing Treatment,2019-11-10,12337.32,Yes
+371615,22,Female,Hispanic,Harrisburgh,Chickenpox,0830-02-07,2,0,15,Other,Relapse,2019-07-01,30819.73,Yes
+321739,58,Non-binary,Other,Gonzalesmouth,COVID-19,0096-08-16,2,4,3,Medication,Relapse,2022-04-26,30384.81,No
+868223,36,Non-binary,Hispanic,Jameston,Chickenpox,0549-06-02,9,2,12,Physical Therapy,Ongoing Treatment,2023-07-26,24213.06,No
+527602,32,Male,Caucasian,West Destinytown,Heart Attack,2019-09-27,6,2,2,Other,Recovery,2021-10-17,2952.96,Yes
+952596,38,Non-binary,African American,East Josephport,Eyesight Issues,0200-07-26,8,3,13,Physical Therapy,Ongoing Treatment,2021-10-18,37090.14,No
+222032,69,Non-binary,African American,Armstrongton,High Blood Pressure,0080-10-13,0,3,9,Other,Recovery,2020-05-22,12839.36,Yes
+289246,54,Male,Caucasian,Alvinville,Eyesight Issues,0508-01-29,2,0,15,Physical Therapy,Ongoing Treatment,2023-04-01,45546.97,Yes
+260417,34,Female,Caucasian,Bryanton,Heart Attack,1631-03-24,9,3,8,Physical Therapy,Ongoing Treatment,2023-02-25,39216.48,No
+227807,57,Non-binary,Hispanic,East Brendaburgh,COVID-19,1013-07-09,0,2,15,Medication,Ongoing Treatment,2020-04-02,14153.58,Yes
+845242,35,Female,African American,Port Vanessa,Chickenpox,0520-02-24,7,3,8,Physical Therapy,Ongoing Treatment,2019-06-11,37366.69,Yes
+305280,37,Non-binary,Hispanic,Masonborough,Heart Attack,0665-07-24,0,1,4,Physical Therapy,Relapse,2022-06-24,19179.93,Yes
+440358,77,Male,Other,Nicolemouth,Asthma,0565-06-17,10,1,6,Physical Therapy,Ongoing Treatment,2018-11-16,36049.91,No
+241921,19,Female,Hispanic,Lake Natashamouth,Diabetes,0612-05-14,10,1,14,Medication,Ongoing Treatment,2023-09-15,10309.09,Yes
+365495,76,Female,Other,East Josephmouth,Low Blood Pressure,2010-03-01,6,5,11,Other,Relapse,2019-05-10,14802.98,Yes
+901047,75,Non-binary,African American,South Hannahfurt,Diabetes,0493-12-14,2,0,13,Physical Therapy,Recovery,2022-01-14,28275.61,No
+750050,39,Male,Caucasian,East Richardfurt,COVID-19,0733-01-22,1,4,0,Medication,Relapse,2023-05-24,47411.53,Yes
+529040,65,Female,Other,Port Carlosview,Low Blood Pressure,1596-05-12,1,5,13,Physical Therapy,Relapse,2023-03-20,3957.14,No
+726873,61,Male,African American,Lake Rosestad,Eyesight Issues,1960-09-08,8,4,3,Medication,Relapse,2022-06-01,21787.66,Yes
+949765,59,Male,Caucasian,West Brookechester,Diabetes,0272-10-13,5,1,6,Physical Therapy,Recovery,2020-05-03,21353.6,No
+165211,47,Non-binary,Hispanic,Taylormouth,Heart Attack,1064-09-17,0,2,6,Physical Therapy,Ongoing Treatment,2021-03-03,39930.92,Yes
+802727,22,Female,Other,West Johnny,Heart Attack,0292-11-17,9,1,9,Physical Therapy,Ongoing Treatment,2021-05-17,6065.86,Yes
+712431,68,Male,Hispanic,Henrychester,Cancer,0131-01-06,8,3,3,Physical Therapy,Recovery,2019-06-15,19923.41,Yes
+326402,36,Non-binary,Other,Port Claudia,Chickenpox,1459-05-10,1,2,4,Medication,Ongoing Treatment,2022-10-19,45784.05,Yes
+594112,52,Female,Other,West Yvetteview,Heart Attack,1707-05-28,4,1,5,Other,Ongoing Treatment,2021-06-26,12400.59,No
+172192,24,Female,Hispanic,South Mark,High Blood Pressure,0298-08-28,5,2,10,Other,Relapse,2019-05-26,17643.76,No
+252368,25,Male,Hispanic,Lake Tylerbury,Asthma,2000-01-18,9,3,10,Other,Relapse,2022-01-22,25422.72,No
+110916,37,Male,Caucasian,Claireview,Asthma,1092-04-09,6,3,0,Medication,Recovery,2020-10-06,32930.27,Yes
+895067,16,Non-binary,African American,Lake Joseph,COVID-19,0219-12-03,9,3,9,Physical Therapy,Recovery,2020-11-14,25569.92,Yes
+981271,33,Female,Hispanic,Colemanfort,Diabetes,0489-10-18,3,3,9,Physical Therapy,Ongoing Treatment,2022-03-23,26416.03,No
+897533,50,Non-binary,Other,Hopkinsport,High Blood Pressure,0682-05-14,1,3,3,Medication,Ongoing Treatment,2021-02-25,29329.53,No
+656373,21,Female,African American,East Derekport,Low Blood Pressure,0932-09-01,8,3,11,Physical Therapy,Relapse,2022-03-22,16475.54,No
+239886,37,Non-binary,Caucasian,Lake Kelly,Diabetes,0351-05-28,10,2,0,Other,Ongoing Treatment,2023-08-08,20496.4,No
+905706,28,Male,Caucasian,North Aaron,Chickenpox,0494-11-01,5,2,0,Physical Therapy,Relapse,2021-10-11,18618.16,No
+943625,54,Female,African American,West Amanda,Heart Attack,0282-12-04,6,1,11,Other,Relapse,2023-03-11,14880.33,No
+140170,19,Female,Hispanic,Pattersonside,Heart Attack,1754-04-24,7,0,2,Physical Therapy,Ongoing Treatment,2022-07-12,43299.17,Yes
+433948,28,Non-binary,Other,Jeffreytown,High Blood Pressure,0063-04-07,8,4,9,Other,Ongoing Treatment,2021-12-13,28840.31,Yes
+369476,27,Male,Caucasian,North Teresa,Asthma,1777-08-23,8,5,1,Physical Therapy,Ongoing Treatment,2022-08-24,21783.03,Yes
+376658,56,Male,Hispanic,Toddberg,Chickenpox,1937-10-14,3,5,9,Physical Therapy,Recovery,2020-04-30,24517.5,No
+222930,51,Non-binary,Hispanic,South Victoriaberg,Heart Attack,0839-07-29,10,5,8,Physical Therapy,Relapse,2019-10-30,10093.55,Yes
+697219,59,Female,Caucasian,New John,Eyesight Issues,1414-06-04,5,3,5,Other,Relapse,2021-02-21,25460.18,No
+440133,45,Non-binary,Other,Lindaview,COVID-19,1267-09-08,0,5,5,Medication,Relapse,2022-05-10,44945.74,No
+791642,30,Male,Caucasian,East Jason,Cancer,1951-12-19,1,0,10,Other,Ongoing Treatment,2023-05-29,7552.09,Yes
+542814,73,Female,African American,Westtown,Diabetes,0603-12-05,5,5,10,Medication,Ongoing Treatment,2018-11-12,38372.94,No
+559007,28,Non-binary,Caucasian,Lisaborough,High Blood Pressure,0173-03-02,10,4,6,Other,Ongoing Treatment,2020-04-15,11065.78,No
+384623,69,Non-binary,Other,South Michaelfort,Eyesight Issues,0791-02-06,9,4,0,Other,Relapse,2019-11-27,47472.39,No
+907121,26,Non-binary,Other,Elizabethshire,Chickenpox,2009-08-21,0,4,14,Medication,Ongoing Treatment,2021-04-11,12040.84,No
+487766,26,Non-binary,Caucasian,Deannahaven,Cancer,1387-10-13,7,1,12,Other,Recovery,2021-09-19,16581.9,No
+130468,52,Female,Hispanic,Bradleybury,Asthma,0962-12-23,0,4,6,Medication,Recovery,2020-04-13,5698.32,No
+299452,58,Non-binary,Other,Theodoretown,COVID-19,1964-01-22,1,5,12,Physical Therapy,Relapse,2021-05-15,14875.59,No
+148736,42,Male,Hispanic,West Sydneyhaven,Asthma,0125-05-09,1,4,5,Physical Therapy,Recovery,2018-11-05,33108.71,No
+377739,22,Female,Other,Lyonsbury,Heart Attack,1922-08-30,5,2,2,Medication,Relapse,2023-01-20,37451.66,Yes
+166612,66,Male,Other,West Kathleen,Heart Attack,0935-09-09,8,2,3,Physical Therapy,Ongoing Treatment,2020-07-02,7604.94,No
+500273,56,Female,Hispanic,Wilsonmouth,Chickenpox,0486-07-16,4,0,7,Other,Ongoing Treatment,2023-06-20,10179.04,No
+493114,49,Female,Hispanic,Hobbstown,Asthma,0598-08-25,4,3,3,Other,Ongoing Treatment,2022-05-04,3222.22,No
+207019,25,Male,Other,North Alan,Chickenpox,1030-01-16,2,5,6,Medication,Relapse,2023-06-06,40956.21,Yes
+625486,49,Male,Hispanic,Mcbrideview,COVID-19,1401-02-24,3,0,1,Medication,Recovery,2019-10-26,21370.14,No
+477055,27,Non-binary,Other,Lake Sharon,Chickenpox,0061-06-15,7,3,4,Other,Ongoing Treatment,2021-05-10,15140.36,Yes
+893931,34,Female,Hispanic,Taylorstad,Eyesight Issues,0874-03-03,10,2,3,Physical Therapy,Recovery,2022-09-15,7913.59,Yes
+564421,21,Male,Hispanic,South Bradleystad,COVID-19,0874-11-11,6,2,8,Other,Relapse,2019-05-14,46740.39,Yes
+411139,25,Female,Hispanic,Teresahaven,COVID-19,1622-01-05,8,1,8,Medication,Relapse,2023-07-03,33375.53,No
+612371,49,Female,African American,South Raymond,Chickenpox,0268-03-12,8,3,11,Other,Recovery,2019-04-07,22302.41,No
+876785,75,Non-binary,Caucasian,New Robertfurt,COVID-19,1262-07-26,4,4,14,Medication,Recovery,2019-12-04,26740.51,Yes
+687032,37,Male,Hispanic,West Desireechester,High Blood Pressure,0977-10-29,1,0,9,Physical Therapy,Recovery,2020-01-13,13716.43,No
+822559,42,Female,Caucasian,Hollandborough,High Blood Pressure,0151-07-31,9,4,12,Other,Relapse,2022-04-09,22882.1,Yes
+485726,78,Non-binary,African American,Romeromouth,Chickenpox,1719-07-30,9,2,3,Other,Ongoing Treatment,2021-11-01,25049.88,Yes
+160521,77,Male,Caucasian,New Brianview,Heart Attack,0346-03-18,8,1,2,Physical Therapy,Recovery,2019-01-26,30954.99,No
+433913,17,Female,Other,Brettchester,COVID-19,0555-07-15,1,0,1,Medication,Relapse,2020-10-05,13875.55,Yes
+925414,75,Male,African American,Mooreland,Diabetes,0246-04-02,2,5,1,Physical Therapy,Ongoing Treatment,2021-04-12,29113.57,No
+727386,42,Female,Hispanic,Lake Lisa,Low Blood Pressure,0259-07-31,4,3,13,Physical Therapy,Relapse,2019-07-17,3716.67,No
+488657,22,Male,Caucasian,Tiffanyville,COVID-19,0062-10-03,6,3,14,Other,Ongoing Treatment,2019-04-29,19123.24,No
+143879,45,Female,Other,Aliciamouth,Asthma,0071-08-24,5,0,0,Medication,Recovery,2019-03-28,46595.64,Yes
+895343,48,Male,Other,Ericstad,Cancer,0138-12-29,8,0,10,Physical Therapy,Relapse,2020-03-28,47435.69,Yes
+125909,57,Female,Caucasian,Mejiatown,Heart Attack,1369-04-15,2,2,5,Physical Therapy,Ongoing Treatment,2022-08-16,47651.33,Yes
+741941,41,Female,Caucasian,Port Reginaldfort,Cancer,0104-04-24,9,1,0,Medication,Ongoing Treatment,2023-02-14,3184.38,Yes
+109690,27,Non-binary,Other,Sandrashire,COVID-19,0829-08-18,6,4,8,Medication,Relapse,2020-03-16,27154.01,Yes
+267462,74,Non-binary,Caucasian,Lake Alexander,COVID-19,1282-02-07,3,2,5,Medication,Ongoing Treatment,2022-09-04,6454.67,No
+517201,77,Female,Caucasian,East Jeremy,Heart Attack,0165-12-04,10,2,11,Other,Recovery,2021-02-24,44987.7,No
+607773,76,Male,Caucasian,Lake Daniel,Cancer,0372-02-28,5,4,1,Physical Therapy,Recovery,2022-09-22,14440.14,Yes
+689746,46,Male,Hispanic,West Blake,COVID-19,1355-01-10,8,5,13,Physical Therapy,Relapse,2023-03-29,31935.19,No
+167847,50,Male,African American,New Aaron,COVID-19,1100-10-24,10,5,6,Physical Therapy,Relapse,2022-08-21,20953.63,No
+401704,19,Male,African American,North Heather,Low Blood Pressure,0034-08-30,10,5,10,Medication,Relapse,2021-02-07,48348.75,Yes
+285631,72,Male,Hispanic,Port Taylor,Diabetes,0509-05-29,1,4,12,Medication,Ongoing Treatment,2021-05-20,20340.4,No
+479334,67,Male,Other,New Samuelstad,Low Blood Pressure,1118-05-23,8,5,0,Other,Recovery,2023-01-01,8491.03,No
+522070,75,Male,Other,East Karenhaven,Eyesight Issues,1801-12-07,0,1,8,Other,Ongoing Treatment,2019-01-07,42931.52,No
+940784,60,Female,Caucasian,Smithland,COVID-19,0492-12-30,2,2,13,Other,Recovery,2022-04-24,18311.23,Yes
+204605,67,Female,African American,New Edwardfort,Diabetes,1257-06-05,0,0,11,Other,Ongoing Treatment,2020-02-12,48924.42,No
+460295,40,Male,Other,Hartfurt,Asthma,0439-05-26,6,0,0,Medication,Ongoing Treatment,2019-10-05,23653.14,Yes
+946534,78,Male,African American,East Mistyborough,High Blood Pressure,0333-10-16,6,2,10,Physical Therapy,Ongoing Treatment,2019-02-18,30669.58,No
+823963,37,Non-binary,Hispanic,Port Justin,Cancer,1631-10-14,1,2,1,Physical Therapy,Relapse,2019-11-13,12728.37,No
+924573,51,Female,Caucasian,New Michael,Chickenpox,0884-08-04,8,1,10,Other,Ongoing Treatment,2023-09-17,34908.72,No
+604156,68,Male,African American,Port James,Eyesight Issues,1547-07-28,2,1,15,Medication,Relapse,2021-11-19,1517.65,No
+685146,57,Female,Hispanic,Merritthaven,Chickenpox,0535-07-01,0,3,6,Other,Ongoing Treatment,2020-10-08,41676.51,No
+989868,25,Female,African American,South Joshua,Low Blood Pressure,1842-11-15,5,3,2,Other,Ongoing Treatment,2022-01-22,39864.74,Yes
+381262,74,Male,Caucasian,Meganfort,Asthma,1078-09-22,8,2,5,Other,Relapse,2021-12-23,32179.87,Yes
+342879,38,Male,African American,Port Lauren,Heart Attack,1778-08-31,0,2,9,Physical Therapy,Recovery,2019-04-29,24000.68,Yes
+591965,68,Male,Caucasian,Valentinefort,High Blood Pressure,1085-09-01,2,4,8,Other,Ongoing Treatment,2020-08-03,4447.44,Yes
+120404,60,Female,African American,Nicoletown,COVID-19,0062-11-27,2,5,11,Medication,Relapse,2021-03-21,9701.49,Yes
+281810,25,Female,Other,Jonesburgh,COVID-19,0101-09-04,9,3,3,Physical Therapy,Ongoing Treatment,2019-02-21,34075.9,No
+938213,15,Female,African American,Woodardshire,Cancer,0859-04-05,6,2,4,Medication,Relapse,2019-02-02,4198.54,Yes
+125808,43,Male,Hispanic,Lake Ronald,COVID-19,1673-12-28,0,1,0,Medication,Ongoing Treatment,2021-07-02,9041.59,Yes
+123298,34,Male,Hispanic,Haroldfurt,Eyesight Issues,1264-05-21,1,1,11,Other,Ongoing Treatment,2022-12-09,24163.73,No
+805212,66,Male,Caucasian,Kimberlyside,Cancer,1783-09-04,1,3,9,Medication,Recovery,2019-02-13,41032.67,No
+504348,22,Non-binary,Other,Port Martin,High Blood Pressure,1461-03-16,4,3,10,Other,Recovery,2020-03-21,8121.75,No
+590887,52,Male,African American,New Benjamin,Cancer,1334-01-04,10,3,9,Medication,Ongoing Treatment,2022-11-15,30797.68,No
+372053,53,Female,African American,East Daniel,Chickenpox,1285-04-11,3,0,10,Medication,Ongoing Treatment,2020-01-30,15355.62,No
+824924,30,Female,Other,Hinesville,Cancer,1696-09-10,8,2,11,Other,Recovery,2023-01-31,39993.81,Yes
+127773,53,Non-binary,Hispanic,Jeffreyview,Heart Attack,1858-02-11,4,3,2,Physical Therapy,Relapse,2019-07-19,15295.34,Yes
+397078,79,Female,Caucasian,Cameronhaven,COVID-19,0443-01-20,9,3,5,Other,Recovery,2021-07-26,49855.17,No
+849587,66,Female,Caucasian,Richardsonfurt,Cancer,0697-08-16,5,1,10,Medication,Recovery,2022-02-04,10292.27,No
+374115,61,Female,African American,North Benjamin,Diabetes,1785-12-10,10,0,0,Physical Therapy,Relapse,2019-06-12,48238.62,No
+488190,54,Male,Hispanic,Stevensbury,Eyesight Issues,1797-10-11,7,5,1,Other,Recovery,2019-09-02,13397.46,No
+706423,27,Male,African American,South Pennyfurt,Heart Attack,0722-05-25,6,2,13,Physical Therapy,Recovery,2020-11-13,33629.53,Yes
+333028,37,Female,Hispanic,Lake Alexander,High Blood Pressure,0502-01-20,7,0,6,Other,Recovery,2022-11-21,30531.6,Yes
+983259,27,Non-binary,Other,Jorgeburgh,Low Blood Pressure,1192-12-13,3,4,0,Other,Ongoing Treatment,2018-12-22,39071.83,Yes
+460491,57,Non-binary,Other,East Carlos,Cancer,0481-03-17,9,0,0,Physical Therapy,Ongoing Treatment,2019-01-07,19188.82,Yes
+163134,46,Male,Hispanic,Alexandraport,COVID-19,0232-01-09,7,2,10,Other,Recovery,2019-07-14,7993.33,No
+149624,36,Male,Caucasian,Meganland,Eyesight Issues,1482-01-11,4,3,5,Physical Therapy,Ongoing Treatment,2019-04-15,44933.29,No
+148414,56,Female,Hispanic,North Sarahborough,High Blood Pressure,0241-06-09,2,1,15,Medication,Recovery,2020-04-24,10916.01,No
+343637,71,Non-binary,Other,Collinsfurt,COVID-19,1290-02-28,9,4,15,Other,Ongoing Treatment,2023-05-03,49301.01,Yes
+752086,62,Male,Hispanic,East Michelleport,Diabetes,1598-07-31,4,3,5,Other,Recovery,2021-09-18,35518.37,Yes
+190512,67,Male,Caucasian,Codyville,Eyesight Issues,0839-04-21,5,5,6,Physical Therapy,Recovery,2023-09-27,15950.85,No
+564120,68,Male,Other,Phammouth,Heart Attack,1348-01-13,10,0,4,Medication,Ongoing Treatment,2020-01-17,30885.5,Yes
+201772,27,Non-binary,African American,West Meghanbury,Heart Attack,1938-03-30,2,1,5,Medication,Ongoing Treatment,2019-12-23,42768.82,Yes
+197286,44,Non-binary,Hispanic,New Austin,Cancer,1847-07-21,4,5,12,Medication,Recovery,2021-03-01,24969.33,No
+126161,50,Non-binary,African American,South Michael,High Blood Pressure,0697-11-06,7,5,14,Other,Recovery,2020-10-17,15608.28,No
+707757,49,Non-binary,Other,Lawrencehaven,Asthma,1191-12-20,3,4,5,Medication,Ongoing Treatment,2020-02-27,36803.87,Yes
+526447,52,Male,Hispanic,East Stephen,Heart Attack,1200-10-13,8,3,0,Other,Ongoing Treatment,2020-04-27,28591.5,No
+716283,29,Non-binary,African American,Watsonmouth,COVID-19,1860-10-05,6,0,0,Other,Recovery,2020-10-09,16442.47,No
+230287,29,Non-binary,African American,North Mark,High Blood Pressure,0454-10-02,8,2,8,Medication,Recovery,2020-04-01,43565.26,No
+822273,39,Non-binary,African American,Port Todd,Asthma,0924-08-10,9,4,8,Physical Therapy,Relapse,2021-08-20,15997.95,No
+855587,37,Male,Caucasian,Port Edwin,Chickenpox,1551-05-30,5,2,14,Medication,Ongoing Treatment,2022-05-23,19626.68,Yes
+831647,17,Female,Other,Lake Brandon,Cancer,0349-11-10,7,5,5,Physical Therapy,Ongoing Treatment,2019-07-23,46725.86,Yes
+413019,58,Female,Hispanic,Elijahmouth,COVID-19,0141-12-05,5,4,2,Physical Therapy,Ongoing Treatment,2022-05-12,20815.62,Yes
+387386,48,Non-binary,Hispanic,Lake Sherryshire,Chickenpox,1079-07-31,5,0,9,Physical Therapy,Ongoing Treatment,2021-07-17,38637.61,No
+802799,23,Male,Hispanic,East Frank,Diabetes,1811-03-24,4,4,4,Physical Therapy,Relapse,2019-11-05,22433.6,No
+457536,19,Male,Caucasian,New Ashleyville,Cancer,0464-03-23,7,0,0,Physical Therapy,Recovery,2022-12-22,6738.86,Yes
+268938,76,Female,African American,Jessicaburgh,Cancer,0854-07-08,8,4,2,Other,Recovery,2021-10-05,48663.99,Yes
+375271,76,Male,Other,Mackenzietown,Chickenpox,1708-12-14,0,5,4,Other,Relapse,2020-11-13,36749.81,Yes
+950831,39,Male,African American,Jeffreyville,Heart Attack,0380-05-07,4,4,2,Physical Therapy,Recovery,2020-07-01,1710.39,No
+692339,30,Female,Hispanic,Joshuaview,Chickenpox,1773-03-16,10,0,15,Other,Recovery,2020-12-25,28652.98,Yes
+853617,49,Female,Hispanic,Williamstad,COVID-19,0758-11-23,2,4,8,Other,Ongoing Treatment,2019-06-26,12357.89,Yes
+269100,66,Non-binary,African American,East Rebeccaland,High Blood Pressure,0929-04-09,8,0,4,Medication,Recovery,2019-06-16,47319.42,Yes
+297489,33,Non-binary,Caucasian,Port Ricardo,Asthma,0417-12-28,1,2,3,Other,Ongoing Treatment,2022-06-05,30812.58,No
+639330,79,Non-binary,Hispanic,Smithton,Chickenpox,1845-04-17,2,1,8,Medication,Recovery,2021-05-22,21372.98,Yes
+917541,56,Non-binary,Hispanic,Erinchester,COVID-19,1002-04-01,1,1,14,Other,Ongoing Treatment,2018-10-21,34702.58,Yes
+288785,42,Female,Hispanic,Lake Jessicamouth,COVID-19,1642-02-16,6,5,7,Medication,Relapse,2023-07-06,6595.39,No
+883930,50,Female,Caucasian,North Nicholas,Heart Attack,1318-07-29,1,3,9,Other,Ongoing Treatment,2023-07-03,2255.77,Yes
+903858,41,Male,African American,Lewisshire,Diabetes,1320-05-24,3,3,11,Medication,Recovery,2021-08-23,5300.24,Yes
+583456,42,Non-binary,African American,Sarastad,Heart Attack,1619-12-24,8,3,8,Medication,Relapse,2020-11-15,37066.46,Yes
+863948,76,Non-binary,Caucasian,New Barbara,COVID-19,0308-03-17,5,1,0,Physical Therapy,Recovery,2019-12-16,45187.89,Yes
+113344,46,Female,Caucasian,Ralphfurt,High Blood Pressure,1921-02-14,10,0,10,Medication,Recovery,2022-09-20,6200.44,No
+421748,29,Non-binary,African American,North Madison,Cancer,0737-01-09,0,3,5,Physical Therapy,Recovery,2020-04-16,43041.47,Yes
+557659,66,Non-binary,Other,Tracieborough,Cancer,1455-09-28,3,3,3,Other,Recovery,2022-02-20,30327.08,No
+581190,20,Female,Hispanic,South Markport,Eyesight Issues,0397-12-24,2,4,9,Other,Recovery,2019-10-09,17918.92,Yes
+105566,59,Non-binary,Caucasian,Hammondview,Asthma,0264-06-26,8,0,7,Medication,Relapse,2019-11-27,14371.33,Yes
+546053,68,Male,Other,North Gregborough,COVID-19,1578-03-06,2,3,1,Physical Therapy,Relapse,2023-08-15,49401.33,No
+512903,44,Female,Caucasian,East Christinaberg,COVID-19,0501-07-27,7,2,5,Physical Therapy,Ongoing Treatment,2020-11-18,8415.86,No
+933323,69,Non-binary,African American,Lake Carrie,Diabetes,0413-01-01,0,1,2,Physical Therapy,Recovery,2022-03-14,38781.55,Yes
+763693,29,Non-binary,Hispanic,Brianhaven,Diabetes,1931-04-04,8,2,0,Medication,Recovery,2021-03-18,29783.6,No
+510046,58,Female,Caucasian,Port Matthewburgh,Cancer,1283-05-04,10,4,6,Other,Relapse,2022-07-12,49780.75,Yes
+182154,41,Male,Other,Lake Josephshire,Cancer,0538-05-23,7,5,15,Other,Ongoing Treatment,2023-05-26,38912.67,No
+254551,72,Male,African American,Port Richardton,Diabetes,1264-08-16,3,5,0,Medication,Ongoing Treatment,2021-08-06,3148.67,Yes
+618155,37,Male,Hispanic,New Deanna,Asthma,1753-11-27,10,3,7,Other,Relapse,2020-02-03,41174.45,No
+120571,77,Non-binary,Hispanic,South Jessica,High Blood Pressure,0344-03-01,1,2,13,Medication,Recovery,2020-01-18,34524.99,Yes
+787680,49,Male,Caucasian,Carterberg,Diabetes,1112-04-01,10,0,5,Medication,Relapse,2021-03-08,7781.02,No
+454875,50,Non-binary,Other,Roseborough,Cancer,1211-02-23,1,2,5,Medication,Ongoing Treatment,2020-12-24,4106.98,No
+674216,47,Non-binary,Caucasian,Lake Jameston,Cancer,1595-12-21,10,2,3,Medication,Recovery,2023-06-26,27279.02,No
+704835,38,Non-binary,Caucasian,Christineland,COVID-19,1408-08-09,7,5,8,Other,Relapse,2018-12-12,15951.4,No
+288538,38,Male,Caucasian,South Deborah,Eyesight Issues,0471-10-01,3,5,6,Medication,Relapse,2023-06-14,17255.96,Yes
+480111,22,Non-binary,Caucasian,Port Angelica,High Blood Pressure,0052-03-14,10,5,0,Medication,Relapse,2023-08-25,21138.52,No
+991088,22,Male,African American,Port Tanner,Heart Attack,1963-02-06,9,3,5,Medication,Relapse,2022-08-22,45884.07,No
+405197,78,Non-binary,Other,Combschester,Eyesight Issues,1533-02-17,0,0,10,Physical Therapy,Ongoing Treatment,2023-04-10,9218.3,Yes
+148164,51,Female,Other,Sandraberg,Low Blood Pressure,1647-07-13,6,3,1,Other,Relapse,2021-05-04,36430.94,Yes
+768533,34,Male,Caucasian,Frederickside,Heart Attack,1093-09-06,1,2,5,Physical Therapy,Relapse,2021-02-05,48647.65,Yes
+181336,47,Female,Hispanic,North Brianshire,High Blood Pressure,0186-08-29,10,1,8,Other,Recovery,2022-05-28,1882.74,Yes
+422227,26,Non-binary,Caucasian,Tannerburgh,Chickenpox,1752-08-21,0,3,8,Other,Recovery,2019-01-26,31042.44,No
+114244,62,Non-binary,African American,Rodriguezville,COVID-19,1557-09-24,10,0,7,Other,Recovery,2019-06-07,22387.92,Yes
+811641,33,Female,Caucasian,Paulshire,Asthma,1421-02-11,6,1,0,Physical Therapy,Recovery,2022-01-27,11538.18,Yes
+800118,65,Male,Hispanic,North Ebony,Eyesight Issues,1390-06-02,4,2,12,Other,Recovery,2019-07-24,49442.98,Yes
+359176,51,Male,Hispanic,Cindybury,Eyesight Issues,1280-09-01,10,0,15,Medication,Relapse,2022-04-03,2134.83,Yes
+136888,46,Male,Hispanic,New Teresa,Chickenpox,0082-08-19,0,3,6,Medication,Relapse,2021-12-22,45629.11,Yes
+203933,31,Female,Other,Mccormickview,Chickenpox,0644-04-03,9,1,14,Other,Ongoing Treatment,2022-08-10,27529.53,Yes
+197438,40,Male,Other,West Jenniferview,Cancer,0869-03-19,9,0,12,Physical Therapy,Recovery,2020-05-09,47541.89,Yes
+286916,72,Female,African American,Port Alex,Asthma,1579-08-31,2,4,7,Medication,Relapse,2019-12-17,41741.28,Yes
+580639,46,Male,African American,Port Kathy,Asthma,0790-11-03,7,0,15,Medication,Ongoing Treatment,2023-04-26,33711.82,No
+308297,16,Non-binary,Caucasian,Lake Christina,Low Blood Pressure,0684-03-29,1,2,9,Other,Relapse,2019-02-09,18509.41,No
+159009,72,Non-binary,Other,Zacharystad,Chickenpox,0994-08-27,5,0,7,Medication,Recovery,2023-01-30,16862.32,No
+788228,62,Non-binary,Hispanic,Derekhaven,Low Blood Pressure,0200-12-10,10,0,15,Medication,Ongoing Treatment,2023-08-02,23660.74,No
+359351,53,Male,Hispanic,Jessicafort,Chickenpox,0985-11-19,6,5,12,Medication,Recovery,2020-07-15,31227.45,Yes
+750348,23,Female,African American,Lake Andreaton,Eyesight Issues,1753-12-14,7,4,8,Other,Ongoing Treatment,2022-02-06,47954.48,No
+544553,59,Male,Other,Port Marychester,COVID-19,1299-08-03,2,5,15,Medication,Recovery,2023-07-30,48695.64,No
+826002,54,Male,Other,Port Tracyport,Chickenpox,0548-09-25,9,4,6,Physical Therapy,Relapse,2019-10-01,29843.09,No
+287888,46,Non-binary,African American,Hughesside,Diabetes,1147-08-06,6,0,5,Other,Relapse,2023-04-24,33891.97,Yes
+922823,18,Non-binary,Other,Smithfort,Diabetes,0929-01-08,8,0,9,Medication,Ongoing Treatment,2022-03-13,5733.39,Yes
+325851,73,Non-binary,Caucasian,Harrischester,Low Blood Pressure,0334-05-05,1,2,12,Medication,Relapse,2023-05-31,23171.19,Yes
+466866,57,Non-binary,Caucasian,West Dawnville,Low Blood Pressure,1478-10-05,10,3,11,Other,Ongoing Treatment,2020-07-19,29154.87,No
+541713,53,Non-binary,Hispanic,Hawkinsfort,Heart Attack,1677-07-22,6,5,2,Other,Recovery,2020-01-02,25772.01,Yes
+943427,56,Non-binary,Caucasian,Alexandermouth,Low Blood Pressure,0521-08-10,7,2,6,Physical Therapy,Recovery,2018-12-27,11581.97,No
+154183,70,Female,Caucasian,Hollandshire,High Blood Pressure,1730-07-25,3,5,12,Physical Therapy,Ongoing Treatment,2021-05-26,47290.6,No
+122272,66,Male,Other,North Jorgechester,Asthma,0395-05-31,3,0,11,Medication,Recovery,2020-05-29,13685.0,No
+676198,46,Male,Other,South Desiree,Eyesight Issues,0725-05-28,10,3,8,Physical Therapy,Relapse,2022-12-03,9965.01,No
+304167,66,Female,Caucasian,Hawkinshaven,Low Blood Pressure,1817-05-11,9,3,2,Physical Therapy,Ongoing Treatment,2021-09-14,35466.38,Yes
+790604,80,Non-binary,Caucasian,South Lindsey,Chickenpox,1116-10-05,6,4,11,Medication,Ongoing Treatment,2019-01-04,11663.49,No
+956060,34,Female,African American,Abigailland,Eyesight Issues,1413-05-11,1,1,15,Physical Therapy,Relapse,2023-05-23,20529.51,Yes
+762152,74,Male,African American,West Maryton,Chickenpox,1803-02-24,3,1,3,Medication,Recovery,2019-05-26,13082.98,No
+872965,16,Male,Other,Youngbury,Cancer,0431-05-31,1,3,1,Other,Ongoing Treatment,2021-07-13,14946.92,Yes
+337995,26,Female,Other,Jonathanburgh,Eyesight Issues,0486-08-13,1,2,13,Other,Relapse,2019-02-11,31882.71,Yes
+765080,70,Non-binary,Other,South Paulmouth,Diabetes,0119-04-16,5,5,1,Physical Therapy,Relapse,2022-07-18,48851.74,No
+852818,62,Non-binary,African American,Kerryport,Heart Attack,1370-09-28,7,1,0,Other,Ongoing Treatment,2021-04-20,8816.62,Yes
+895409,70,Female,Other,Michaelchester,Low Blood Pressure,1117-02-03,1,2,3,Other,Recovery,2022-06-13,45844.54,Yes
+279551,43,Male,Hispanic,East Kristen,Diabetes,1017-12-26,8,2,2,Other,Ongoing Treatment,2021-07-22,20041.91,Yes
+862788,55,Female,Other,Alberthaven,COVID-19,0246-03-12,0,4,7,Physical Therapy,Ongoing Treatment,2023-01-05,19957.62,No
+872091,75,Female,Other,South Travisbury,Eyesight Issues,1286-11-15,6,3,10,Physical Therapy,Relapse,2022-12-10,8549.99,No
+800211,56,Non-binary,Hispanic,North William,Heart Attack,0324-12-06,10,3,14,Other,Relapse,2021-09-14,3830.08,Yes
+782932,25,Male,Hispanic,Jameston,Cancer,1881-08-16,8,1,2,Medication,Recovery,2021-08-05,47195.87,No
+290781,25,Female,Other,South Joel,Diabetes,0420-06-08,7,5,15,Other,Recovery,2022-08-25,38754.24,Yes
+722542,77,Male,Other,Hansenton,Cancer,1847-11-30,5,4,11,Medication,Recovery,2023-09-30,36238.16,No
+629651,51,Non-binary,African American,Ryanberg,Eyesight Issues,1213-09-20,7,3,8,Medication,Relapse,2019-05-01,1834.36,Yes
+367481,57,Female,Other,Gilbertfurt,Asthma,1833-12-26,10,3,4,Other,Relapse,2021-04-07,24743.87,No
+360673,39,Non-binary,Caucasian,Carriebury,Diabetes,1311-04-04,10,2,6,Medication,Relapse,2020-12-23,25621.84,No
+287506,41,Female,Other,East Lawrence,COVID-19,1712-12-07,6,5,10,Medication,Ongoing Treatment,2019-09-27,46967.84,No
+972107,73,Female,African American,Lisaland,Eyesight Issues,1043-04-28,0,0,7,Medication,Ongoing Treatment,2022-03-11,29670.0,Yes
+784183,62,Male,African American,New Raymond,Asthma,1124-07-20,7,0,6,Physical Therapy,Ongoing Treatment,2020-08-04,20733.1,No
+356721,15,Male,Hispanic,Jeffreyborough,Eyesight Issues,0480-12-21,1,3,11,Physical Therapy,Ongoing Treatment,2018-10-06,18956.88,Yes
+817033,24,Female,Caucasian,Ryantown,COVID-19,1645-06-08,3,4,1,Other,Relapse,2021-10-17,15824.67,No
+309255,73,Female,Caucasian,South Ryanview,Low Blood Pressure,1570-10-01,10,5,5,Medication,Relapse,2022-09-13,44346.89,Yes
+964775,25,Non-binary,Other,South Chad,Heart Attack,0396-09-19,1,1,10,Other,Relapse,2021-02-20,32311.48,Yes
+170631,74,Male,Hispanic,West Mikeville,Asthma,1690-07-26,7,3,7,Physical Therapy,Ongoing Treatment,2019-10-29,9692.57,No
+745912,68,Male,Hispanic,Parkerfort,Asthma,0256-10-13,1,2,7,Medication,Recovery,2019-05-09,3550.27,Yes
+441727,50,Non-binary,Other,Christopherport,Diabetes,0524-03-03,0,5,14,Physical Therapy,Recovery,2019-11-10,10558.85,Yes
+794940,36,Non-binary,Caucasian,East Rebecca,COVID-19,0927-03-16,5,1,14,Physical Therapy,Ongoing Treatment,2021-02-27,10639.56,Yes
+173192,36,Non-binary,African American,North Erinton,Asthma,0938-07-23,6,2,10,Medication,Ongoing Treatment,2019-08-02,5496.45,No
+524912,64,Non-binary,Hispanic,North Virginia,Asthma,0909-03-20,5,5,9,Other,Recovery,2021-04-25,46842.11,Yes
+401959,31,Female,Other,Lake Juliaville,Asthma,0240-09-05,9,5,14,Other,Recovery,2021-12-27,13653.41,Yes
+800567,78,Female,African American,North Johnshire,Asthma,0175-09-05,4,1,6,Medication,Ongoing Treatment,2020-06-23,25832.07,Yes
+824506,53,Female,Other,Port Mark,Asthma,1219-04-21,6,5,11,Medication,Ongoing Treatment,2020-08-06,2195.56,No
+646060,63,Non-binary,African American,New Scott,Chickenpox,0999-09-16,8,5,10,Medication,Relapse,2019-03-28,16103.23,No
+822125,25,Female,Caucasian,Jerryland,Asthma,0173-03-01,7,0,2,Physical Therapy,Recovery,2019-10-18,3410.03,No
+832903,68,Non-binary,Other,West Josephchester,Heart Attack,0730-07-11,3,2,11,Other,Relapse,2021-01-07,34758.93,No
+850125,25,Male,Hispanic,West David,Asthma,0385-07-25,6,0,14,Medication,Recovery,2020-01-07,31286.14,Yes
+554931,37,Female,Caucasian,South Melanie,Eyesight Issues,1403-03-05,9,1,3,Other,Relapse,2021-07-21,37708.84,Yes
+353753,52,Female,Hispanic,Margaretside,High Blood Pressure,0504-06-20,8,1,9,Other,Recovery,2022-11-01,15604.63,Yes
+422980,59,Female,Other,Walkertown,Eyesight Issues,0626-01-22,0,2,8,Physical Therapy,Relapse,2020-02-16,4721.65,No
+182518,19,Non-binary,Other,New Jasonhaven,COVID-19,1441-12-23,6,3,6,Medication,Recovery,2022-10-24,22286.49,Yes
+419445,30,Female,Other,Matthewsstad,Heart Attack,1804-07-25,1,3,13,Physical Therapy,Relapse,2020-10-05,34097.09,Yes
+411839,28,Non-binary,African American,Crawfordton,Low Blood Pressure,0216-02-15,1,5,13,Medication,Relapse,2022-05-22,45109.75,No
+377438,32,Non-binary,Other,New Leslie,Diabetes,1896-12-01,2,3,10,Physical Therapy,Ongoing Treatment,2018-12-29,48460.81,No
+500539,59,Female,Caucasian,Barrerafort,High Blood Pressure,0545-11-03,6,2,0,Other,Ongoing Treatment,2019-01-10,36374.92,Yes
+886565,73,Non-binary,African American,East Robert,Diabetes,1001-05-12,0,4,0,Medication,Recovery,2023-05-04,46630.63,Yes
+229374,32,Female,Hispanic,Brewertown,High Blood Pressure,0434-07-27,0,4,2,Medication,Ongoing Treatment,2023-05-31,35709.31,Yes
+318764,45,Male,Hispanic,Terriside,Eyesight Issues,1049-05-03,0,3,13,Other,Recovery,2019-01-19,44838.7,Yes
+543150,37,Female,Caucasian,East Robertfurt,Chickenpox,0075-06-03,8,2,3,Other,Relapse,2022-02-02,27938.26,Yes
+107138,54,Non-binary,African American,Paulmouth,Low Blood Pressure,0302-11-22,9,1,5,Medication,Recovery,2022-07-20,25139.62,Yes
+534538,47,Non-binary,African American,East Christopherview,Eyesight Issues,0949-08-14,10,1,13,Medication,Ongoing Treatment,2023-04-18,49668.78,Yes
+905424,44,Non-binary,African American,West Andreaville,Asthma,0840-08-14,2,3,3,Other,Ongoing Treatment,2019-08-11,12664.5,Yes
+326311,51,Female,African American,South Susan,Low Blood Pressure,1306-09-10,5,1,8,Medication,Ongoing Treatment,2019-01-26,29244.04,Yes
+883499,36,Non-binary,Caucasian,Port Dawnhaven,Asthma,0559-07-29,4,2,10,Medication,Ongoing Treatment,2019-03-19,31388.99,Yes
+301639,23,Non-binary,African American,Shawnberg,Cancer,0560-03-07,6,0,2,Medication,Recovery,2020-03-25,18590.41,No
+808629,59,Non-binary,African American,Phillipsport,Heart Attack,1881-06-16,7,5,11,Physical Therapy,Relapse,2022-12-11,41592.89,Yes
+501671,17,Non-binary,Other,South Claireland,Diabetes,1902-12-10,10,4,14,Medication,Ongoing Treatment,2022-04-12,16649.23,No
+148362,72,Female,Caucasian,Codyview,Chickenpox,1114-01-07,10,1,5,Other,Relapse,2022-09-21,29925.69,Yes
+941885,52,Non-binary,Hispanic,West Alexisside,Eyesight Issues,1225-10-23,3,2,3,Other,Recovery,2023-06-25,40247.57,No
+342858,18,Male,Other,Tranland,Asthma,1779-12-17,7,1,15,Medication,Recovery,2021-04-18,34538.24,No
+617001,29,Non-binary,Caucasian,North Kayla,COVID-19,1821-11-28,0,2,12,Other,Recovery,2020-12-25,48577.06,Yes
+580118,73,Non-binary,African American,Lake Elizabethside,Low Blood Pressure,1524-12-22,5,4,5,Physical Therapy,Recovery,2021-05-14,6675.09,Yes
+590683,41,Male,African American,North Stevenfurt,Low Blood Pressure,0680-02-27,8,5,11,Physical Therapy,Ongoing Treatment,2019-11-18,39000.48,No
+817453,52,Female,African American,Caitlinshire,High Blood Pressure,0478-09-07,8,2,4,Medication,Recovery,2021-05-30,30630.41,No
+151831,39,Female,Other,Diazmouth,Eyesight Issues,1920-02-13,7,4,13,Physical Therapy,Relapse,2020-06-22,26486.55,Yes
+212102,76,Female,Caucasian,Keyland,High Blood Pressure,0697-09-08,6,4,12,Physical Therapy,Recovery,2021-12-15,20602.97,No
+439239,64,Female,Hispanic,Fowlertown,Cancer,0848-05-31,7,3,3,Medication,Ongoing Treatment,2019-04-14,38150.25,Yes
+475377,49,Male,Caucasian,Barrettburgh,Diabetes,0360-03-06,1,1,11,Other,Recovery,2022-06-10,13971.81,Yes
+873364,19,Male,Hispanic,East Amyhaven,Eyesight Issues,0719-06-19,6,2,11,Physical Therapy,Ongoing Treatment,2022-10-04,49423.05,Yes
+580225,78,Non-binary,Other,Hardinview,COVID-19,0474-07-16,0,1,8,Other,Relapse,2020-01-20,22622.19,Yes
+346181,18,Male,Other,Michaelchester,Eyesight Issues,1372-11-14,3,2,9,Physical Therapy,Relapse,2019-03-20,46620.46,Yes
+923878,57,Female,African American,Lake Robert,COVID-19,1049-10-21,3,1,8,Physical Therapy,Recovery,2019-10-05,2265.67,No
+517919,44,Non-binary,Hispanic,Port Ambertown,Diabetes,0085-01-11,0,2,5,Physical Therapy,Recovery,2020-07-09,27388.01,No
+461220,17,Non-binary,Caucasian,Payneton,Low Blood Pressure,0464-11-23,4,2,7,Medication,Relapse,2021-09-14,48505.61,Yes
+964312,61,Female,Other,Donovanville,Chickenpox,0402-12-27,4,5,9,Medication,Recovery,2021-06-13,6039.83,Yes
+966884,40,Non-binary,Other,Dickersonhaven,COVID-19,1734-01-26,2,1,5,Medication,Ongoing Treatment,2020-10-14,42697.75,No
+558707,42,Male,Hispanic,Ryanton,Heart Attack,1583-05-14,5,4,10,Other,Ongoing Treatment,2020-11-13,9748.3,No
+432386,43,Non-binary,Hispanic,Williamtown,Heart Attack,1397-08-20,1,1,1,Other,Recovery,2021-03-19,17276.37,Yes
+431425,44,Non-binary,African American,West Claudia,Diabetes,1522-01-11,1,4,11,Other,Recovery,2019-05-31,44144.58,No
+390208,69,Male,Other,Ericburgh,Heart Attack,0939-03-22,10,1,11,Other,Ongoing Treatment,2022-09-28,21667.95,Yes
+549416,79,Female,Other,West Amymouth,COVID-19,1595-02-12,2,2,1,Other,Relapse,2019-08-31,2821.17,Yes
+742752,30,Female,African American,South Anthony,Low Blood Pressure,1173-01-15,9,5,2,Physical Therapy,Recovery,2022-03-05,1588.24,No
+900796,35,Non-binary,Hispanic,Sarahbury,Heart Attack,0317-05-20,7,1,5,Other,Relapse,2018-10-24,41502.43,Yes
+740326,65,Male,Hispanic,West Danielside,COVID-19,0282-11-25,7,4,0,Other,Relapse,2022-09-16,38224.44,No
+689760,30,Male,Hispanic,East Melissaborough,Heart Attack,1935-04-06,4,4,11,Medication,Relapse,2020-02-29,35466.75,Yes
+169684,71,Male,Other,North Loriport,Chickenpox,1255-12-25,2,4,6,Other,Ongoing Treatment,2022-08-17,41118.53,Yes
+558543,29,Male,African American,Brightport,COVID-19,0199-08-04,7,1,0,Physical Therapy,Recovery,2023-01-18,44129.42,Yes
+252028,39,Female,Hispanic,West John,Low Blood Pressure,1208-11-06,3,2,4,Physical Therapy,Ongoing Treatment,2021-11-24,14825.94,No
+663590,46,Female,Other,Martinezstad,Heart Attack,0687-06-16,0,4,14,Physical Therapy,Ongoing Treatment,2022-02-24,48153.73,No
+326577,70,Non-binary,African American,West Emilystad,Chickenpox,0749-11-25,9,1,10,Other,Recovery,2020-07-12,40306.28,No
+798213,25,Non-binary,African American,South Nathan,Low Blood Pressure,0410-11-10,8,4,10,Medication,Ongoing Treatment,2020-06-06,39010.94,No
+594974,49,Female,Other,Michaelside,COVID-19,0316-06-19,2,3,2,Medication,Relapse,2019-04-18,46717.65,Yes
+639727,68,Non-binary,Caucasian,New Teresaborough,Cancer,1823-06-03,7,4,11,Medication,Recovery,2019-08-31,18098.87,Yes
+550362,43,Female,Other,Campbellfurt,COVID-19,0837-11-12,10,3,10,Other,Ongoing Treatment,2021-10-13,5137.81,No
+349702,52,Male,African American,Carolville,Low Blood Pressure,0978-02-11,9,5,10,Other,Ongoing Treatment,2021-05-25,33505.88,Yes
+120079,21,Male,Hispanic,South Anthonyberg,Asthma,0668-10-06,10,4,7,Physical Therapy,Ongoing Treatment,2022-03-03,25140.74,Yes
+223789,70,Male,African American,Smithburgh,Cancer,0790-03-26,7,3,12,Other,Relapse,2018-11-14,45563.06,No
+622847,63,Female,Other,North Isaacview,Diabetes,0351-07-18,6,3,1,Other,Relapse,2019-04-05,19202.01,No
+156307,77,Non-binary,Hispanic,Lisaton,Cancer,0217-03-09,6,1,2,Other,Relapse,2023-01-26,23281.19,Yes
+834722,77,Female,Other,West Cheryl,Chickenpox,1277-07-09,3,3,8,Medication,Recovery,2022-04-16,45414.51,Yes
+841618,21,Male,Other,Jeffreychester,COVID-19,0410-01-09,0,1,0,Physical Therapy,Relapse,2021-01-31,23753.35,No
+696329,80,Female,African American,Port Madison,Cancer,0483-08-24,7,1,5,Medication,Ongoing Treatment,2023-07-07,16719.13,Yes
+899241,74,Female,African American,Port Jennifer,Diabetes,0876-07-14,0,2,9,Other,Relapse,2023-05-28,11193.16,No
+871096,38,Female,Caucasian,Melissaville,Eyesight Issues,1170-11-21,6,2,11,Other,Relapse,2021-04-08,45782.22,No
+544915,16,Male,Caucasian,Daltonbury,Low Blood Pressure,1310-01-08,9,4,2,Other,Recovery,2022-08-06,44167.99,No
+753127,30,Non-binary,Hispanic,East Melindaland,COVID-19,1454-07-25,3,1,12,Physical Therapy,Relapse,2023-01-22,39428.0,Yes
+470718,35,Male,Hispanic,North Jeromeport,Heart Attack,1425-06-24,1,4,11,Medication,Recovery,2020-07-19,10979.12,No
+439220,71,Non-binary,Hispanic,Port Kelly,Diabetes,1648-05-23,5,3,7,Medication,Ongoing Treatment,2019-07-02,34363.26,Yes
+995450,29,Male,Other,Martinezview,Eyesight Issues,1545-01-11,1,4,14,Other,Relapse,2019-10-04,22066.68,Yes
+817247,24,Female,Hispanic,West Roberthaven,Cancer,1459-09-13,0,5,3,Other,Relapse,2020-02-05,30386.26,Yes
+513147,60,Non-binary,African American,South Charlesview,COVID-19,0979-10-26,7,5,6,Other,Relapse,2019-09-19,35598.7,Yes
+499618,80,Female,Other,Estradachester,Diabetes,0701-04-01,0,1,14,Medication,Recovery,2019-07-12,24088.67,No
+402307,74,Female,Other,New Nicole,Chickenpox,0485-04-11,5,0,9,Other,Relapse,2018-11-30,28351.54,Yes
+215953,59,Male,Other,Nicolefort,Low Blood Pressure,1479-11-21,4,0,10,Other,Recovery,2022-05-22,38836.9,Yes
+440351,41,Female,Other,South Tanyaberg,COVID-19,1714-09-22,5,5,4,Physical Therapy,Recovery,2022-05-11,23664.21,Yes
+821122,27,Non-binary,Other,East Victor,High Blood Pressure,0164-05-26,3,1,5,Physical Therapy,Ongoing Treatment,2023-03-17,33675.31,Yes
+619247,74,Female,Hispanic,Michelestad,COVID-19,0734-03-20,9,0,1,Physical Therapy,Recovery,2018-11-06,22647.76,No
+755344,47,Female,Hispanic,Port Daniellefort,High Blood Pressure,1417-10-10,1,4,12,Physical Therapy,Ongoing Treatment,2020-12-02,5151.96,Yes
+181868,67,Non-binary,Other,Martineztown,Diabetes,0328-09-15,7,5,3,Medication,Ongoing Treatment,2022-12-13,8524.99,Yes
+390047,79,Female,Hispanic,South Isabella,Heart Attack,0123-11-05,7,0,3,Physical Therapy,Recovery,2022-04-30,15511.84,No
+704983,27,Female,African American,Port Christopher,COVID-19,1649-04-16,2,3,15,Physical Therapy,Ongoing Treatment,2021-02-18,21998.76,Yes
+760579,42,Non-binary,Hispanic,Petersonview,Low Blood Pressure,1026-09-12,8,2,1,Physical Therapy,Ongoing Treatment,2021-12-22,29463.56,No
+421520,44,Female,Caucasian,New Rogerberg,Diabetes,0281-07-15,4,2,8,Physical Therapy,Ongoing Treatment,2023-01-13,17411.23,Yes
+403872,47,Female,Hispanic,Melindaland,High Blood Pressure,0514-06-19,9,5,5,Physical Therapy,Recovery,2022-11-26,33873.97,No
+198419,68,Non-binary,Hispanic,Brendastad,Low Blood Pressure,0941-12-29,2,0,13,Other,Recovery,2022-08-31,8132.74,Yes
+680222,77,Male,African American,East Alicia,Heart Attack,0319-05-11,0,5,9,Medication,Ongoing Treatment,2022-04-16,34279.85,No
+683880,63,Female,Hispanic,Patriciamouth,Heart Attack,1400-07-03,3,2,2,Other,Recovery,2023-05-15,35407.95,No
+957641,55,Non-binary,Hispanic,Dakotafort,Asthma,0767-04-27,2,4,3,Other,Relapse,2022-09-01,42620.73,No
+426942,72,Non-binary,Other,Fosterberg,Heart Attack,1423-03-16,0,2,1,Medication,Recovery,2020-01-16,40919.01,Yes
+256078,36,Non-binary,Hispanic,New Christina,Heart Attack,0985-11-02,7,1,1,Other,Ongoing Treatment,2020-04-11,37370.76,Yes
+125927,59,Female,Hispanic,Richardview,Diabetes,0225-04-26,1,4,0,Physical Therapy,Ongoing Treatment,2020-12-09,23948.93,Yes
+354875,58,Male,Other,New Jasonberg,Asthma,1751-10-07,10,2,3,Physical Therapy,Ongoing Treatment,2022-04-20,2388.48,Yes
+480428,59,Male,African American,North Crystal,Eyesight Issues,1644-06-13,2,4,3,Other,Ongoing Treatment,2020-08-25,33662.45,No
+882476,63,Male,Other,Franklinland,Cancer,1933-01-25,1,1,10,Physical Therapy,Recovery,2022-11-23,40249.23,No
+184509,73,Female,Hispanic,Vasquezton,Asthma,1761-12-10,7,2,13,Other,Recovery,2022-09-05,13429.32,No
+122650,43,Female,Caucasian,South Jamesmouth,Cancer,0322-12-26,6,1,14,Other,Recovery,2018-11-26,20566.14,No
+995444,36,Non-binary,Hispanic,West Patrickfurt,Low Blood Pressure,1696-02-22,8,0,4,Other,Ongoing Treatment,2022-02-27,15869.11,Yes
+984049,33,Female,Other,North Kevinfurt,Eyesight Issues,0384-06-05,1,0,7,Physical Therapy,Ongoing Treatment,2021-05-23,26032.34,No
+154627,31,Female,Caucasian,Juliastad,High Blood Pressure,0161-09-09,10,5,10,Physical Therapy,Recovery,2023-01-23,16391.4,No
+535561,17,Female,Caucasian,North Ryan,Chickenpox,0359-08-23,3,1,15,Physical Therapy,Ongoing Treatment,2018-10-29,36313.2,No
+286797,24,Female,Hispanic,Aprilfurt,Diabetes,1428-05-16,2,0,7,Medication,Recovery,2019-09-20,12916.86,Yes
+665310,66,Non-binary,African American,East Lynn,Chickenpox,0387-01-19,8,3,12,Other,Ongoing Treatment,2019-11-12,49542.25,Yes
+657343,17,Non-binary,Other,New Michelletown,Diabetes,1018-12-20,10,4,8,Other,Relapse,2021-03-21,28717.91,Yes
+471812,71,Female,African American,New Jonathanburgh,Eyesight Issues,0154-01-16,2,3,15,Physical Therapy,Recovery,2021-11-19,7837.4,No
+497557,22,Female,African American,Reidport,Asthma,0269-11-21,5,5,3,Medication,Relapse,2023-01-12,44954.88,No
+890676,74,Male,Other,West Louis,Chickenpox,1174-04-17,0,2,5,Other,Ongoing Treatment,2020-08-19,48696.73,Yes
+612970,29,Non-binary,African American,Port Robert,Eyesight Issues,1748-08-01,7,1,4,Medication,Ongoing Treatment,2019-11-30,36011.36,No
+603774,43,Non-binary,Other,Port Tammy,Cancer,1607-06-02,5,0,10,Physical Therapy,Recovery,2022-05-20,26547.08,Yes
+456644,79,Non-binary,Hispanic,Vasquezport,High Blood Pressure,0699-05-04,10,5,2,Other,Recovery,2022-03-13,22833.07,Yes
+742650,37,Male,Other,New Anthony,Eyesight Issues,0155-04-17,5,3,10,Physical Therapy,Recovery,2021-05-07,5284.04,Yes
+353062,64,Male,Other,Shelbyborough,Eyesight Issues,0961-04-02,1,1,14,Medication,Recovery,2021-12-23,21447.95,Yes
+651337,15,Female,African American,Lake Corey,Chickenpox,1956-08-01,8,2,2,Physical Therapy,Ongoing Treatment,2020-07-25,27861.01,Yes
+541563,38,Female,Other,New Kevinchester,Cancer,1007-09-16,8,5,1,Physical Therapy,Recovery,2022-11-28,15722.44,Yes
+226853,59,Female,Hispanic,Rivasfurt,Cancer,0838-11-19,2,0,6,Other,Ongoing Treatment,2020-01-23,43531.97,No
+667168,72,Male,Hispanic,Schultzville,COVID-19,1876-10-11,2,1,13,Physical Therapy,Ongoing Treatment,2023-06-11,19829.48,Yes
+633826,21,Non-binary,African American,West Nicoleville,High Blood Pressure,1175-07-19,4,3,0,Medication,Ongoing Treatment,2022-07-09,21635.52,Yes
+763240,74,Non-binary,Caucasian,West Patricia,Chickenpox,0081-02-10,3,1,3,Physical Therapy,Recovery,2019-12-31,16973.12,No
+923533,76,Male,Caucasian,Anitaport,Low Blood Pressure,1704-04-03,2,5,1,Other,Relapse,2020-02-04,8494.92,Yes
+284571,54,Male,African American,South Lisaside,High Blood Pressure,1981-05-30,4,3,4,Medication,Relapse,2020-04-07,26623.67,No
+772667,35,Non-binary,African American,Rickstad,Heart Attack,2008-10-31,3,0,6,Medication,Recovery,2022-08-11,6742.34,Yes
+927060,43,Male,Caucasian,Anitahaven,Cancer,0154-09-21,7,5,10,Other,Relapse,2019-12-02,6541.13,Yes
+510469,21,Non-binary,African American,West Edwardshire,Eyesight Issues,1675-04-08,9,1,5,Medication,Relapse,2022-03-14,23765.96,No
+424505,44,Non-binary,Caucasian,Nicoleshire,Chickenpox,0467-04-02,7,2,13,Medication,Ongoing Treatment,2022-03-26,48351.19,No
+219707,58,Male,African American,Meganborough,Asthma,0585-07-08,0,1,3,Physical Therapy,Ongoing Treatment,2021-02-19,7000.18,Yes
+376016,33,Male,Caucasian,West Kristi,High Blood Pressure,1397-05-26,8,2,3,Medication,Recovery,2019-02-14,28332.18,No
+557331,71,Female,Other,Mitchellmouth,Asthma,0239-06-08,5,1,9,Medication,Relapse,2020-01-10,12920.19,No
+943851,64,Female,Other,New Laura,Eyesight Issues,1240-04-15,3,4,7,Physical Therapy,Ongoing Treatment,2020-11-17,26475.75,No
+537508,37,Female,Other,Harrishaven,Asthma,0197-02-11,6,5,4,Physical Therapy,Recovery,2021-12-23,15630.96,Yes
+966939,80,Non-binary,Caucasian,Melissaview,Asthma,0279-01-28,0,4,10,Medication,Recovery,2019-06-14,43775.06,No
+970547,57,Female,African American,Johnchester,Asthma,1325-04-08,0,5,2,Physical Therapy,Recovery,2021-11-12,23002.94,No
+893150,37,Non-binary,Hispanic,Smithville,Chickenpox,1526-06-18,2,2,7,Medication,Recovery,2022-12-19,46866.42,No
+582849,28,Male,Hispanic,Chambersstad,High Blood Pressure,1797-04-22,10,0,1,Other,Recovery,2019-07-13,23571.16,Yes
+721782,27,Non-binary,Caucasian,West Jake,Diabetes,1732-05-29,0,5,11,Physical Therapy,Relapse,2023-02-10,35318.49,No
+369553,31,Female,Hispanic,South Jacob,Asthma,1478-09-05,8,5,1,Other,Recovery,2020-12-10,39947.4,No
+210537,46,Female,Hispanic,Janicefort,High Blood Pressure,1819-02-16,7,5,9,Physical Therapy,Relapse,2019-06-19,41408.79,Yes
+227284,26,Male,African American,Gibbston,Diabetes,1029-03-01,6,1,6,Other,Ongoing Treatment,2022-07-17,7933.63,Yes
+538120,18,Female,Other,North Dalton,Chickenpox,0423-05-14,4,3,15,Medication,Ongoing Treatment,2019-08-09,40366.19,Yes
+896140,61,Non-binary,Caucasian,Hickmanborough,Eyesight Issues,1563-07-19,10,0,13,Other,Relapse,2020-12-31,17284.47,Yes
+572316,43,Female,African American,Jamesview,Eyesight Issues,0766-01-08,9,5,14,Medication,Relapse,2023-04-13,27482.48,No
+754175,78,Male,African American,New Joyberg,Chickenpox,0638-11-05,0,3,5,Medication,Relapse,2022-12-30,22869.39,Yes
+187930,24,Male,Hispanic,Jamesside,Low Blood Pressure,1071-11-23,8,4,3,Physical Therapy,Relapse,2022-11-28,2487.85,Yes
+571637,55,Female,Caucasian,Scottfort,Low Blood Pressure,0242-12-17,3,4,15,Physical Therapy,Relapse,2022-09-22,30971.77,No
+244319,39,Female,African American,South Michaelside,COVID-19,0443-04-09,7,4,5,Other,Relapse,2019-09-09,17663.4,No
+550959,27,Female,African American,North Jennifer,COVID-19,1876-04-01,3,3,15,Other,Ongoing Treatment,2021-03-08,7265.3,No
+904564,26,Male,Caucasian,Williamborough,High Blood Pressure,2005-09-07,10,0,10,Other,Ongoing Treatment,2018-10-10,2061.44,Yes
+269521,18,Non-binary,Hispanic,West Marisa,Chickenpox,0264-05-27,8,4,7,Physical Therapy,Recovery,2021-01-19,48493.93,No
+616209,16,Female,Other,Zimmermanstad,High Blood Pressure,2019-09-14,1,1,5,Physical Therapy,Ongoing Treatment,2020-08-07,48980.64,No
+577816,79,Female,Hispanic,South Traci,Diabetes,0546-04-14,9,4,1,Medication,Ongoing Treatment,2022-05-15,3530.31,Yes
+774736,80,Male,Other,Markshire,Low Blood Pressure,0341-02-08,6,0,8,Physical Therapy,Ongoing Treatment,2022-04-29,43877.2,No
+430489,78,Male,Hispanic,North Aprilchester,COVID-19,1947-06-10,4,1,10,Other,Ongoing Treatment,2019-04-14,28991.73,Yes
+858638,43,Female,Hispanic,West Kristamouth,Eyesight Issues,1569-02-17,5,4,6,Physical Therapy,Relapse,2020-08-05,4396.48,Yes
+652357,65,Non-binary,Other,Proctormouth,Asthma,1436-10-25,6,0,2,Physical Therapy,Recovery,2021-06-02,12463.21,No
+203643,61,Non-binary,African American,Port Sarahmouth,Chickenpox,0852-06-06,0,0,14,Other,Recovery,2020-11-24,10081.46,Yes
+607856,54,Male,Caucasian,Lewisburgh,COVID-19,0393-03-10,4,0,10,Physical Therapy,Relapse,2018-12-26,29324.47,No
+449367,62,Non-binary,Other,Sparksfurt,Eyesight Issues,0074-01-17,6,5,8,Physical Therapy,Recovery,2018-10-23,29494.62,No
+345901,51,Non-binary,African American,Thomaschester,Cancer,1149-03-24,8,2,0,Physical Therapy,Relapse,2019-06-09,17832.31,No
+480724,25,Male,Hispanic,Barnesberg,Low Blood Pressure,0963-08-14,2,2,2,Physical Therapy,Ongoing Treatment,2018-10-05,7236.67,Yes
+672216,40,Male,Hispanic,Campbelltown,Cancer,0878-07-13,1,4,5,Medication,Recovery,2021-09-11,32060.89,Yes
+152667,64,Male,African American,New Matthewmouth,Cancer,1354-05-31,10,4,7,Other,Relapse,2020-09-07,29710.83,No
+682591,32,Female,Other,Leslieberg,Asthma,1883-02-27,0,1,2,Other,Relapse,2019-06-22,20271.05,Yes
+764416,74,Female,Other,Charlotteberg,Chickenpox,1183-02-01,4,4,15,Physical Therapy,Relapse,2018-10-15,11957.4,No
+373752,64,Female,Other,East Christinefurt,Asthma,0661-10-05,10,0,0,Other,Ongoing Treatment,2019-11-16,41359.07,Yes
+985667,74,Non-binary,Other,South Sharonberg,Eyesight Issues,0194-01-14,2,1,9,Medication,Ongoing Treatment,2021-05-14,44765.72,No
+778447,64,Female,African American,New John,Heart Attack,0078-10-09,1,5,15,Medication,Recovery,2020-05-09,36732.93,No
+801088,58,Female,Caucasian,Port Bobby,Diabetes,1964-12-29,3,4,0,Physical Therapy,Relapse,2018-11-04,16162.55,Yes
+466803,45,Male,Hispanic,East David,Heart Attack,1375-06-18,6,2,6,Physical Therapy,Recovery,2022-04-16,25196.01,Yes
+445939,20,Male,Caucasian,Porterview,Low Blood Pressure,0623-03-24,7,5,15,Physical Therapy,Ongoing Treatment,2022-05-10,21358.32,Yes
+916272,28,Non-binary,African American,New Melissastad,Chickenpox,1096-12-05,5,3,13,Physical Therapy,Ongoing Treatment,2019-07-08,26789.3,No
+363749,51,Male,Caucasian,South Kimberly,High Blood Pressure,1482-04-16,8,2,12,Other,Relapse,2022-07-04,2450.38,Yes
+925915,56,Female,Hispanic,Jeffreyhaven,Heart Attack,1759-11-05,6,1,14,Other,Recovery,2020-09-23,3584.04,Yes
+703065,69,Male,Hispanic,Jeffreyport,High Blood Pressure,1281-04-27,7,3,5,Physical Therapy,Ongoing Treatment,2021-01-15,48478.92,Yes
+620043,79,Male,Hispanic,Heatherberg,Asthma,0114-02-13,3,0,8,Other,Ongoing Treatment,2020-09-01,35126.77,Yes
+104534,39,Female,Other,Teresamouth,COVID-19,1656-11-29,10,1,11,Medication,Recovery,2021-01-29,10251.63,No
+289379,17,Male,Hispanic,Lake Laura,High Blood Pressure,1527-07-04,1,3,11,Medication,Ongoing Treatment,2019-04-24,36976.43,Yes
+177818,63,Non-binary,Hispanic,West Lauraberg,Cancer,1296-02-24,10,0,2,Other,Relapse,2022-07-18,20996.75,Yes
+878802,23,Male,Caucasian,Sharonmouth,Chickenpox,0061-12-09,0,4,0,Other,Ongoing Treatment,2022-10-07,47092.17,Yes
+775905,20,Male,African American,Dominiquemouth,Low Blood Pressure,0410-12-11,0,0,15,Medication,Ongoing Treatment,2019-12-18,3916.16,No
+967390,32,Male,African American,Jacobstad,Asthma,1209-05-18,7,3,7,Physical Therapy,Recovery,2021-02-07,7492.47,No
+495747,16,Female,Hispanic,Port Mark,Heart Attack,1666-05-28,8,2,7,Other,Ongoing Treatment,2021-09-09,5285.46,Yes
+305412,15,Male,Other,Wesleyhaven,Low Blood Pressure,1893-07-13,1,5,2,Physical Therapy,Ongoing Treatment,2020-05-30,2619.56,No
+166330,74,Non-binary,Hispanic,Coxburgh,Chickenpox,0609-07-25,4,2,11,Physical Therapy,Ongoing Treatment,2022-10-20,44105.03,No
+425515,75,Female,Other,New Mariatown,COVID-19,1920-03-26,4,4,6,Physical Therapy,Ongoing Treatment,2021-03-21,3815.03,Yes
+138375,71,Female,African American,Pierceberg,Eyesight Issues,1305-10-05,3,1,11,Physical Therapy,Relapse,2023-01-07,35250.92,Yes
+215109,17,Female,Other,East Jean,Asthma,1406-11-24,0,5,8,Physical Therapy,Ongoing Treatment,2019-01-28,34411.7,Yes
+825699,23,Male,African American,Adamsfort,Low Blood Pressure,1130-10-29,10,0,4,Medication,Recovery,2021-09-12,6928.4,No
+982432,29,Female,African American,West Mariastad,High Blood Pressure,1862-03-08,9,1,11,Other,Relapse,2022-02-08,22538.94,Yes
+512850,27,Male,African American,Harveyport,COVID-19,1077-03-06,9,0,8,Medication,Relapse,2019-11-21,5921.91,Yes
+202041,52,Non-binary,Caucasian,Connertown,Diabetes,1560-07-27,6,1,15,Physical Therapy,Relapse,2020-11-13,3429.25,Yes
+732039,67,Non-binary,Hispanic,Robertborough,COVID-19,0073-02-24,1,0,0,Physical Therapy,Ongoing Treatment,2022-01-02,45821.13,Yes
+616858,51,Male,Caucasian,Kristinland,Diabetes,1933-10-21,3,5,1,Medication,Recovery,2021-01-22,6111.67,Yes
+424471,29,Female,Caucasian,South Larrybury,High Blood Pressure,1099-03-19,8,5,13,Other,Recovery,2019-02-07,18744.36,No
+573523,65,Male,Hispanic,Ortegaland,Diabetes,0571-05-24,8,0,1,Physical Therapy,Ongoing Treatment,2019-04-02,33619.17,No
+505510,61,Non-binary,Other,Crossmouth,Heart Attack,2002-04-23,4,4,3,Physical Therapy,Relapse,2021-07-26,14152.4,No
+694300,23,Non-binary,Other,Port Sarahburgh,Eyesight Issues,0308-09-14,1,1,4,Physical Therapy,Ongoing Treatment,2020-09-27,11727.29,No
+840545,27,Male,Other,Erinmouth,Diabetes,1017-10-04,0,2,4,Medication,Relapse,2023-03-04,46367.44,No
+341880,79,Non-binary,Caucasian,South Jane,Eyesight Issues,1151-02-16,9,1,6,Other,Relapse,2018-11-30,16534.04,Yes
+590892,36,Female,Other,South Johnport,Diabetes,1694-06-28,10,0,14,Medication,Relapse,2019-03-21,21718.54,Yes
+995367,56,Female,Other,Daviston,Eyesight Issues,0131-12-08,7,4,7,Other,Ongoing Treatment,2023-04-06,39336.87,No
+543844,70,Non-binary,Caucasian,East Robin,Heart Attack,0596-08-09,6,4,6,Physical Therapy,Recovery,2022-07-20,9492.87,Yes
+765740,40,Male,Other,South Vickiborough,COVID-19,1842-02-22,3,4,10,Physical Therapy,Ongoing Treatment,2022-09-26,13516.68,Yes
+138530,69,Non-binary,Hispanic,Russellside,Eyesight Issues,1501-10-02,0,1,3,Medication,Relapse,2022-04-09,12008.58,No
+777895,51,Male,African American,Donaldtown,Chickenpox,0706-11-20,1,3,14,Medication,Recovery,2022-07-17,11099.98,No
+974446,69,Non-binary,Hispanic,Millsstad,Diabetes,0695-11-20,2,2,2,Medication,Ongoing Treatment,2023-08-28,20176.19,Yes
+643882,48,Female,Hispanic,Haleyberg,Eyesight Issues,1503-03-01,10,3,6,Medication,Recovery,2019-08-03,5785.96,No
+982523,75,Non-binary,Caucasian,East Ronald,Cancer,0388-11-17,10,3,15,Medication,Ongoing Treatment,2020-01-14,18397.94,Yes
+874355,28,Non-binary,Hispanic,New Katrinaberg,Heart Attack,1571-03-31,5,1,15,Other,Ongoing Treatment,2022-11-27,45128.91,No
+769159,68,Male,African American,Port Jayfort,Diabetes,0931-12-07,3,1,0,Medication,Relapse,2021-07-14,45618.11,Yes
+230852,29,Female,Other,Sheilaview,Heart Attack,0464-01-08,7,2,12,Medication,Recovery,2019-01-12,22343.97,No
+298743,73,Female,Caucasian,Lake Jasonborough,Cancer,1997-08-27,8,3,5,Physical Therapy,Relapse,2022-08-01,16652.42,Yes
+688617,17,Female,Caucasian,Port Joseph,High Blood Pressure,2004-04-05,2,4,2,Other,Recovery,2020-07-23,45657.55,No
+497934,44,Non-binary,African American,East Christophershire,Heart Attack,0995-09-10,5,0,15,Other,Relapse,2020-11-08,3954.36,Yes
+690812,33,Non-binary,Hispanic,Irwinport,High Blood Pressure,0504-07-02,5,0,12,Other,Recovery,2022-09-21,1112.52,Yes
+971158,25,Female,Other,Reyeschester,Diabetes,0891-11-10,8,1,5,Physical Therapy,Relapse,2021-11-06,41096.03,Yes
+682774,25,Male,Hispanic,West Matthewside,Eyesight Issues,0691-12-17,3,1,14,Medication,Recovery,2019-12-30,26484.32,Yes
+247478,49,Non-binary,African American,West Stephentown,Heart Attack,0684-10-08,3,2,7,Other,Relapse,2022-02-17,29727.72,Yes
+742514,54,Non-binary,Other,North Kendraland,Eyesight Issues,1850-06-27,3,3,2,Other,Ongoing Treatment,2022-12-05,17956.11,No
+940709,56,Non-binary,Other,Scottshire,Cancer,0412-09-03,6,1,12,Medication,Relapse,2021-09-23,38609.69,No
+395985,59,Male,Other,North Miranda,Diabetes,1401-12-05,10,2,10,Other,Relapse,2019-07-27,10085.03,Yes
+443946,71,Non-binary,Caucasian,South Danabury,Cancer,1630-06-26,8,2,15,Physical Therapy,Recovery,2022-01-21,45231.18,Yes
+723539,67,Female,Caucasian,North Kellyton,Cancer,1769-01-01,0,4,11,Physical Therapy,Recovery,2020-12-08,5790.57,Yes
+570250,40,Female,Caucasian,Hubermouth,Eyesight Issues,1117-03-19,5,3,8,Physical Therapy,Ongoing Treatment,2021-03-25,39203.82,No
+770300,34,Female,African American,Martinborough,Diabetes,0314-02-11,6,1,2,Medication,Relapse,2022-09-04,26210.23,No
+700175,73,Female,Other,West Rebecca,Cancer,1852-04-12,9,0,12,Medication,Relapse,2022-08-27,38322.99,No
+684035,31,Non-binary,Caucasian,Antonioland,Cancer,0154-08-14,5,4,13,Medication,Relapse,2022-12-06,21691.05,Yes
+632991,58,Non-binary,African American,Morenomouth,Diabetes,1013-01-02,2,4,8,Other,Ongoing Treatment,2019-06-21,37485.47,Yes
+202747,50,Non-binary,Hispanic,Lake Brandon,Cancer,0532-12-29,0,0,2,Other,Relapse,2021-10-30,46153.3,Yes
+457870,27,Female,Caucasian,Nicholasland,Chickenpox,0484-12-17,4,5,6,Medication,Relapse,2021-08-15,22947.49,No
+313682,18,Female,Hispanic,Hernandezland,Eyesight Issues,1665-01-28,10,3,2,Medication,Recovery,2023-03-26,40738.69,Yes
+575114,39,Non-binary,Other,Port Karen,Low Blood Pressure,1439-05-28,10,2,13,Medication,Ongoing Treatment,2020-03-12,46989.66,Yes
+327041,76,Male,Other,Kellyland,Cancer,1915-12-27,0,3,1,Physical Therapy,Relapse,2020-05-23,40819.75,No
+925695,60,Non-binary,Caucasian,Andrewchester,Low Blood Pressure,0322-04-06,8,5,6,Physical Therapy,Relapse,2023-02-20,8009.42,No
+442456,75,Non-binary,African American,Adrianshire,Diabetes,0646-04-16,10,3,2,Physical Therapy,Recovery,2021-01-05,1695.05,Yes
+523508,25,Non-binary,Other,New Jamesmouth,Diabetes,1128-02-21,10,5,11,Other,Relapse,2019-12-21,30403.11,Yes
+959977,79,Male,Caucasian,New Brendashire,Heart Attack,1556-02-13,0,0,8,Medication,Ongoing Treatment,2021-11-12,39952.1,No
+533796,39,Male,African American,Port Martintown,COVID-19,0953-12-12,4,3,11,Physical Therapy,Ongoing Treatment,2019-01-09,47458.8,No
+742489,29,Female,Hispanic,West Robert,Heart Attack,0193-01-19,0,0,11,Medication,Recovery,2023-08-10,33208.03,Yes
+235262,18,Non-binary,African American,Lake Billtown,Cancer,0812-06-18,7,5,2,Medication,Relapse,2020-12-02,21180.76,No
+948997,20,Male,Caucasian,Carterbury,Diabetes,1398-07-08,10,5,8,Other,Relapse,2020-02-15,3052.84,No
+824409,80,Female,African American,Port Petertown,Asthma,0925-10-27,8,2,11,Physical Therapy,Recovery,2022-10-21,34937.71,No
+964431,50,Male,Other,Moralesmouth,Low Blood Pressure,0887-05-22,2,5,3,Medication,Relapse,2019-06-11,10383.3,Yes
+633861,57,Non-binary,Caucasian,Schmittburgh,Chickenpox,0480-01-06,9,3,12,Medication,Relapse,2021-06-08,35688.15,Yes
+368364,43,Non-binary,Hispanic,Jacobfort,COVID-19,0149-05-09,5,1,9,Other,Recovery,2020-12-09,36518.46,Yes
+454486,36,Female,African American,East Charlesport,High Blood Pressure,0431-10-25,4,1,14,Other,Recovery,2021-05-24,29185.76,Yes
+282641,56,Non-binary,Caucasian,New Stacy,COVID-19,0323-04-23,6,4,12,Medication,Ongoing Treatment,2021-02-15,29851.55,No
+716067,24,Non-binary,African American,East Lacey,Asthma,0820-12-27,8,1,9,Physical Therapy,Relapse,2021-03-30,14906.65,No
+814672,43,Female,Hispanic,East Nathan,Low Blood Pressure,0067-12-22,0,3,11,Physical Therapy,Relapse,2021-04-11,41290.94,Yes
+479222,34,Male,Caucasian,Lake Aaron,Chickenpox,1892-04-04,8,0,12,Physical Therapy,Relapse,2023-07-01,12387.26,No
+148406,71,Non-binary,Other,West Jeffreytown,Diabetes,1091-08-13,4,4,11,Physical Therapy,Recovery,2022-10-23,14408.24,No
+325200,73,Male,African American,South Patricia,High Blood Pressure,1103-10-06,2,3,11,Medication,Recovery,2019-07-18,31984.59,Yes
+349960,36,Non-binary,Hispanic,Chadland,Low Blood Pressure,1287-09-24,5,4,14,Other,Recovery,2018-10-18,18263.95,Yes
+597469,31,Non-binary,Other,Lake Morganmouth,COVID-19,1538-05-08,4,3,15,Medication,Relapse,2023-09-21,47328.81,No
+863453,54,Non-binary,Hispanic,Port Bradleymouth,Diabetes,1634-09-06,3,2,7,Medication,Recovery,2020-08-13,32483.21,No
+690311,47,Non-binary,Other,Port Stevenchester,Eyesight Issues,0544-07-06,8,5,11,Other,Ongoing Treatment,2020-05-15,2461.2,Yes
+887059,31,Male,Hispanic,West Hayleyshire,Asthma,0717-05-18,7,0,4,Physical Therapy,Relapse,2021-06-16,7491.92,Yes
+876799,50,Non-binary,Hispanic,Reginaborough,Chickenpox,1136-06-09,7,0,8,Physical Therapy,Relapse,2023-08-27,36039.58,Yes
+393778,42,Female,African American,Bakerfort,Heart Attack,0757-03-07,5,3,8,Medication,Ongoing Treatment,2021-02-02,30333.83,No
+302638,25,Female,African American,Port Ashleystad,Low Blood Pressure,1138-06-25,7,0,15,Physical Therapy,Relapse,2021-01-05,14161.62,No
+102095,19,Male,African American,North Kimton,COVID-19,1784-04-19,1,5,8,Other,Ongoing Treatment,2022-12-12,22629.91,Yes
+262264,19,Non-binary,Hispanic,Lake Michealshire,Chickenpox,0817-01-18,5,1,14,Medication,Recovery,2019-07-02,20480.77,Yes
+848386,68,Male,African American,New Ericstad,Heart Attack,1195-02-25,6,1,1,Physical Therapy,Recovery,2023-06-11,48611.87,Yes
+944686,55,Male,Other,Clarkfurt,Eyesight Issues,0697-08-19,0,5,2,Other,Recovery,2021-03-23,3439.99,No
+982674,20,Non-binary,Hispanic,Port Michael,COVID-19,1732-09-10,9,4,14,Medication,Recovery,2020-04-17,19593.25,No
+304390,59,Female,African American,North Josephview,Cancer,1550-05-15,8,2,10,Other,Relapse,2023-03-12,47341.61,No
+399414,21,Male,African American,South Bethanyhaven,COVID-19,0778-10-14,4,0,2,Physical Therapy,Relapse,2018-10-26,7969.78,No
+630470,19,Female,Hispanic,East Michael,Heart Attack,0481-06-28,10,5,2,Physical Therapy,Recovery,2021-04-28,42256.37,Yes
+490122,31,Female,Caucasian,West Jamiestad,COVID-19,1466-12-02,5,1,6,Physical Therapy,Recovery,2022-06-27,40620.21,No
+915239,21,Female,African American,West Lisa,COVID-19,1955-04-26,0,1,14,Other,Recovery,2022-09-17,14597.83,No
+314024,17,Male,Other,Reidview,Chickenpox,1229-06-09,9,4,9,Physical Therapy,Relapse,2019-05-19,30396.49,Yes
+879232,35,Male,Caucasian,East Marialand,Eyesight Issues,1017-05-23,10,5,7,Physical Therapy,Ongoing Treatment,2021-08-22,22856.69,No
+156217,20,Male,Caucasian,Donnashire,Eyesight Issues,0919-03-24,2,5,4,Other,Ongoing Treatment,2019-06-02,44344.8,No
+421715,20,Female,African American,Kennethtown,Eyesight Issues,1987-04-06,8,5,11,Physical Therapy,Ongoing Treatment,2023-04-03,39037.79,Yes
+934193,60,Male,Hispanic,Dannyfurt,Low Blood Pressure,0958-05-22,1,0,9,Other,Relapse,2019-09-15,31336.4,No
+753277,19,Non-binary,Hispanic,West Johnstad,Cancer,1585-07-21,5,5,8,Physical Therapy,Recovery,2021-08-27,14469.93,Yes
+415227,76,Male,Hispanic,Haydenville,Low Blood Pressure,1379-08-09,2,1,6,Other,Recovery,2023-04-08,6248.0,Yes
+775379,50,Female,Hispanic,East Brandon,COVID-19,0086-09-03,1,4,3,Medication,Relapse,2023-06-26,3547.16,Yes
+400480,56,Male,African American,Lake Joshua,Asthma,0625-10-16,5,0,9,Physical Therapy,Recovery,2020-02-06,43105.61,No
+348055,29,Non-binary,Caucasian,East Daniel,High Blood Pressure,1906-02-03,6,0,7,Medication,Ongoing Treatment,2018-11-02,2429.86,Yes
+655912,27,Male,Hispanic,West Andreaside,COVID-19,1670-01-22,7,1,15,Medication,Ongoing Treatment,2023-03-30,12796.5,Yes
+652228,36,Non-binary,African American,North Roy,COVID-19,0630-07-10,7,0,14,Medication,Relapse,2023-07-13,41245.5,Yes
+479945,24,Female,African American,North Jackieborough,Low Blood Pressure,0760-08-25,3,1,4,Medication,Recovery,2022-10-31,3035.56,No
+959313,34,Female,Other,Lake Kenneth,Asthma,1107-01-20,6,1,5,Other,Ongoing Treatment,2020-09-11,19496.81,Yes
+969612,42,Male,Other,Mirandaville,Cancer,0078-02-01,6,5,3,Other,Relapse,2020-05-24,48679.42,Yes
+683293,73,Female,African American,Lake George,Low Blood Pressure,1982-05-06,3,4,2,Medication,Relapse,2021-11-11,16614.08,No
+607491,48,Male,Other,South Brandi,High Blood Pressure,0357-07-12,0,2,7,Physical Therapy,Ongoing Treatment,2021-06-16,46379.95,No
+430177,41,Male,Hispanic,Jenniferside,Eyesight Issues,0705-03-24,7,4,10,Physical Therapy,Relapse,2022-12-02,28166.59,Yes
+327525,24,Non-binary,Caucasian,Clarkmouth,Asthma,1719-10-09,9,5,6,Physical Therapy,Relapse,2021-01-06,19991.56,No
+667651,79,Non-binary,African American,Patriciachester,Chickenpox,0845-02-16,3,0,4,Other,Ongoing Treatment,2019-10-10,30831.82,Yes
+951233,35,Female,African American,Williammouth,Cancer,0557-07-11,6,4,0,Physical Therapy,Relapse,2022-05-08,42306.34,No
+238979,69,Non-binary,Hispanic,Francisstad,Low Blood Pressure,1418-06-08,2,0,7,Other,Recovery,2023-07-14,1921.27,Yes
+613874,34,Male,Other,Nancyville,Low Blood Pressure,1949-06-01,7,4,5,Other,Relapse,2021-08-01,24454.39,Yes
+430541,39,Non-binary,Other,New Cherylburgh,Low Blood Pressure,1606-12-20,7,5,12,Physical Therapy,Recovery,2022-12-22,9277.11,Yes
+595621,59,Female,Hispanic,West Jack,Diabetes,0453-10-17,4,0,13,Physical Therapy,Recovery,2022-06-29,24025.45,Yes
+696313,23,Female,African American,Lake David,High Blood Pressure,0751-03-27,5,3,6,Medication,Ongoing Treatment,2019-10-15,34080.84,Yes
+407973,27,Male,Caucasian,Robinsonview,High Blood Pressure,1089-02-11,1,2,8,Other,Ongoing Treatment,2023-07-07,33938.44,No
+829610,77,Female,Other,Lake Vanessa,High Blood Pressure,0659-12-17,6,0,10,Physical Therapy,Ongoing Treatment,2021-09-17,34253.04,Yes
+969045,75,Female,Other,East Robertville,Heart Attack,1945-02-03,3,0,4,Other,Relapse,2018-12-01,39151.3,No
+422812,28,Male,Hispanic,Allenberg,COVID-19,0065-11-20,8,2,6,Other,Ongoing Treatment,2020-10-28,38630.01,Yes
+509848,64,Non-binary,Caucasian,Dominicborough,Eyesight Issues,1904-10-08,4,1,10,Medication,Relapse,2020-10-02,38789.94,No
+981819,38,Male,Hispanic,Flynnshire,COVID-19,1560-12-16,7,4,13,Medication,Recovery,2022-02-11,5641.06,Yes
+763294,18,Female,Hispanic,Meyersfurt,Diabetes,1836-02-05,3,4,8,Medication,Relapse,2020-10-04,47985.24,Yes
+946197,16,Female,Caucasian,Lake Davidton,COVID-19,0622-08-07,3,4,3,Physical Therapy,Relapse,2021-04-07,25727.12,Yes
+975480,66,Male,Hispanic,Ortegaview,Eyesight Issues,0701-05-17,0,2,11,Physical Therapy,Recovery,2020-08-04,35496.07,Yes
+183945,25,Female,Hispanic,Deborahmouth,Eyesight Issues,1996-08-22,4,5,9,Other,Ongoing Treatment,2019-08-31,42298.18,Yes
+824279,77,Non-binary,Caucasian,Staffordmouth,Eyesight Issues,1641-11-03,0,2,11,Physical Therapy,Ongoing Treatment,2022-06-10,18189.71,No
+663817,65,Non-binary,Hispanic,Frostton,Diabetes,1257-10-19,5,2,9,Medication,Relapse,2020-07-29,2242.75,Yes
+925620,48,Non-binary,African American,Kimberlyfurt,Diabetes,0485-09-29,8,4,9,Physical Therapy,Recovery,2018-12-17,47130.5,No
+249255,77,Female,Hispanic,Ericberg,Low Blood Pressure,1435-09-21,4,0,4,Other,Ongoing Treatment,2022-08-04,16206.86,Yes
+207892,15,Male,Other,New Randy,COVID-19,0692-05-07,8,1,14,Physical Therapy,Recovery,2021-01-20,37830.17,No
+793202,74,Male,Hispanic,Lake Maryland,Eyesight Issues,0968-05-19,7,0,13,Medication,Recovery,2020-10-08,27377.51,No
+363412,47,Male,Other,Gallaghermouth,Cancer,0152-11-15,4,1,13,Other,Recovery,2021-01-21,35823.28,Yes
+247230,23,Female,African American,East Keithbury,Heart Attack,1935-07-23,4,2,9,Other,Relapse,2020-05-24,14105.72,No
+479322,71,Non-binary,Caucasian,South Linda,Diabetes,1483-04-03,0,5,14,Other,Relapse,2021-02-01,19786.14,Yes
+821322,63,Male,Caucasian,Robersonfort,Low Blood Pressure,0400-12-20,5,4,8,Medication,Ongoing Treatment,2022-01-05,25614.16,Yes
+756871,47,Non-binary,Other,Knighthaven,Low Blood Pressure,0393-12-15,5,1,14,Physical Therapy,Recovery,2023-06-15,29084.49,No
+270656,49,Female,Other,West Ryanview,Low Blood Pressure,1718-10-22,5,5,2,Physical Therapy,Recovery,2019-10-02,30098.67,Yes
+608842,32,Male,African American,Marcobury,Eyesight Issues,1262-09-14,10,3,10,Medication,Ongoing Treatment,2020-03-16,19683.22,Yes
+522443,46,Female,Other,Port Sethborough,COVID-19,1589-11-01,4,0,10,Other,Relapse,2019-09-30,29382.53,No
+231004,58,Female,Hispanic,North Theodore,High Blood Pressure,0749-11-19,3,5,6,Medication,Recovery,2022-08-22,9451.02,No
+824516,80,Female,African American,Cantrellberg,Asthma,1825-11-19,6,4,9,Physical Therapy,Recovery,2022-08-05,32742.14,Yes
+392660,25,Male,Other,Kristinville,Asthma,0305-09-07,6,5,2,Other,Recovery,2023-03-03,45483.96,Yes
+149320,18,Female,Other,Fosterville,Asthma,1551-03-30,10,1,14,Medication,Ongoing Treatment,2021-11-22,33930.81,Yes
+653884,22,Non-binary,African American,Lopezland,Asthma,1468-04-30,9,0,12,Medication,Recovery,2021-07-11,42364.49,No
+266667,64,Male,Other,Garrettshire,Heart Attack,1087-08-28,2,1,12,Physical Therapy,Relapse,2019-01-11,23520.49,No
+961381,52,Female,African American,New Tracyview,COVID-19,0485-02-11,3,2,9,Other,Relapse,2020-10-20,46835.79,No
+863027,30,Non-binary,African American,Shorttown,Eyesight Issues,0312-12-14,6,4,5,Medication,Recovery,2021-10-23,7204.93,Yes
+766991,40,Female,Hispanic,Port James,Low Blood Pressure,0044-12-28,5,5,9,Medication,Ongoing Treatment,2022-11-05,14999.76,No
+875050,67,Male,Other,Julieside,Cancer,0764-03-01,3,0,3,Medication,Relapse,2020-07-10,24289.05,Yes
+853669,32,Non-binary,Hispanic,Lake Danielle,Eyesight Issues,1781-06-02,4,1,11,Physical Therapy,Relapse,2021-11-02,11154.81,Yes
+787693,43,Male,Caucasian,New Amanda,COVID-19,0945-01-22,9,4,9,Physical Therapy,Ongoing Treatment,2019-03-13,37884.29,No
+226148,21,Non-binary,Other,Port Tonya,Cancer,1121-06-16,0,5,15,Other,Relapse,2020-02-06,28754.64,No
+828789,27,Male,Other,Yolandaborough,Heart Attack,0727-02-19,0,3,8,Other,Relapse,2021-04-09,42875.76,No
+972449,72,Female,Other,Sanchezhaven,Eyesight Issues,1476-10-24,2,3,11,Physical Therapy,Recovery,2022-04-26,47509.93,No
+180779,32,Non-binary,African American,North Lawrencefurt,Chickenpox,0409-10-24,9,1,2,Physical Therapy,Recovery,2023-01-02,13268.62,Yes
+436523,53,Male,Hispanic,Michaelstad,Eyesight Issues,1786-03-26,8,4,11,Other,Ongoing Treatment,2020-06-11,22843.96,No
+396536,44,Male,Hispanic,East Teresaland,Eyesight Issues,0654-05-16,2,2,5,Physical Therapy,Recovery,2023-06-12,26021.94,No
+209613,56,Male,Hispanic,South Anthony,High Blood Pressure,1768-11-09,1,4,11,Physical Therapy,Ongoing Treatment,2019-06-21,7142.75,No
+894278,47,Female,Other,South Phillip,Asthma,0494-04-04,2,5,12,Other,Ongoing Treatment,2021-10-31,34327.74,Yes
+753279,56,Female,African American,Port Duane,Eyesight Issues,1040-03-11,7,4,14,Physical Therapy,Recovery,2019-04-28,45866.78,Yes
+625771,36,Non-binary,African American,Lake Thomasmouth,Asthma,0253-06-17,7,4,12,Physical Therapy,Recovery,2019-04-14,23275.23,Yes
+952020,63,Non-binary,Caucasian,West Joy,Chickenpox,1089-08-18,9,5,7,Physical Therapy,Ongoing Treatment,2019-01-08,21793.77,Yes
+426314,34,Female,African American,New Deborah,Diabetes,1560-01-18,5,5,14,Medication,Recovery,2020-04-14,29582.57,Yes
+788998,73,Male,Hispanic,Hoffmanburgh,Diabetes,1018-07-25,3,1,13,Medication,Relapse,2019-12-05,23140.66,Yes
+128171,48,Non-binary,Caucasian,East Matthew,Low Blood Pressure,1084-05-15,5,2,0,Medication,Ongoing Treatment,2021-12-24,30883.8,No
+762096,17,Male,African American,Bellside,Chickenpox,1557-12-22,5,5,7,Medication,Relapse,2022-09-17,30361.01,Yes
+715958,57,Non-binary,Hispanic,Allenmouth,Eyesight Issues,0585-11-20,2,1,5,Physical Therapy,Recovery,2020-02-12,46488.79,No
+162335,47,Non-binary,Hispanic,West Anthony,Diabetes,0703-03-09,6,5,13,Other,Recovery,2021-02-02,12084.86,No
+709794,75,Male,Other,Roberthaven,Diabetes,0736-04-30,3,3,14,Other,Recovery,2019-11-11,46283.53,Yes
+878505,70,Male,Other,Simschester,Diabetes,1423-03-14,1,0,10,Other,Ongoing Treatment,2023-06-15,19291.8,Yes
+948365,17,Non-binary,Hispanic,Whiteville,Chickenpox,1984-04-12,10,2,3,Physical Therapy,Recovery,2023-03-02,46935.64,No
+490116,78,Female,Hispanic,Cathystad,Diabetes,1868-05-21,3,5,1,Other,Relapse,2023-03-29,28812.3,No
+217002,26,Non-binary,Caucasian,Kathrynbury,Eyesight Issues,1134-09-24,1,4,15,Physical Therapy,Recovery,2022-04-22,37031.39,No
+957165,70,Female,African American,Lake Robertburgh,Low Blood Pressure,1706-12-27,2,4,9,Other,Recovery,2022-12-25,34415.49,No
+487821,48,Male,Other,Elliottland,Diabetes,0315-03-09,6,2,9,Other,Recovery,2021-01-10,35074.52,No
+493549,68,Male,Caucasian,West George,Chickenpox,0291-08-21,7,2,4,Physical Therapy,Relapse,2021-12-22,16181.84,No
+122431,66,Non-binary,Other,Port Stephanieside,Low Blood Pressure,1141-11-18,8,4,9,Physical Therapy,Ongoing Treatment,2022-12-07,11797.72,Yes
+745707,52,Female,African American,New April,Low Blood Pressure,0443-01-25,10,5,13,Medication,Recovery,2019-02-08,15378.41,No
+563811,60,Male,African American,Bondview,Asthma,0240-05-19,0,4,15,Physical Therapy,Relapse,2019-07-30,28693.59,No
+782310,21,Non-binary,African American,Susanmouth,Asthma,1144-01-24,5,2,11,Other,Ongoing Treatment,2019-05-02,48660.48,Yes
+892411,36,Female,Other,Ryanstad,Asthma,1803-09-21,9,4,10,Physical Therapy,Recovery,2023-07-12,18865.16,No
+231288,23,Female,Caucasian,Jasonburgh,Cancer,1099-09-08,3,4,11,Medication,Recovery,2019-09-30,21186.76,Yes
+579026,23,Female,African American,North Monique,Chickenpox,0120-06-13,7,2,0,Other,Relapse,2023-04-15,10101.6,No
+482340,48,Male,Other,New Amy,Chickenpox,1611-12-14,2,2,14,Other,Recovery,2021-12-10,35547.8,No
+985866,42,Non-binary,Hispanic,Cherylburgh,Diabetes,0156-06-08,4,2,5,Other,Recovery,2021-06-14,10189.03,Yes
+813546,30,Male,Caucasian,Parkmouth,Chickenpox,0284-02-28,9,1,1,Physical Therapy,Ongoing Treatment,2019-06-16,43524.45,Yes
+160680,55,Male,African American,Taylortown,High Blood Pressure,1017-03-21,7,1,8,Other,Relapse,2018-12-21,6479.46,No
+747738,34,Non-binary,Caucasian,Port Tonyburgh,Cancer,0731-05-22,4,5,6,Other,Ongoing Treatment,2019-06-02,44554.53,Yes
+199877,40,Non-binary,African American,Robinsonmouth,COVID-19,0382-03-21,10,3,6,Medication,Relapse,2020-12-29,16186.02,Yes
+307832,72,Female,Hispanic,East Mary,Asthma,1857-08-26,2,0,4,Physical Therapy,Ongoing Treatment,2022-02-26,3121.82,Yes
+622929,62,Non-binary,African American,Gutierrezfurt,Heart Attack,0772-11-01,7,0,11,Medication,Recovery,2023-07-15,45982.78,No
+883167,77,Male,African American,West Patriciamouth,Asthma,1711-09-24,1,4,11,Physical Therapy,Relapse,2022-04-16,2101.65,Yes
+405129,33,Female,African American,South Ronaldbury,High Blood Pressure,0137-02-07,4,4,15,Other,Ongoing Treatment,2020-12-01,45359.17,No
+665466,57,Non-binary,Caucasian,North Normaside,Asthma,1950-10-23,3,0,5,Physical Therapy,Recovery,2023-05-05,42494.11,No
+789828,29,Female,Hispanic,East Michael,Chickenpox,1865-05-14,1,0,2,Physical Therapy,Relapse,2019-05-17,48338.47,Yes
+474289,44,Male,African American,Lake Louisborough,Low Blood Pressure,0621-11-11,6,5,15,Physical Therapy,Ongoing Treatment,2021-09-16,9161.77,Yes
+130923,61,Non-binary,Other,South Robert,Heart Attack,0344-10-01,2,4,2,Physical Therapy,Relapse,2022-07-27,32159.36,Yes
+405967,75,Non-binary,Other,Port Tinabury,Low Blood Pressure,0334-12-17,8,5,7,Physical Therapy,Relapse,2022-07-25,34790.68,No
+503407,20,Male,African American,New Brittany,Diabetes,1512-12-01,5,5,2,Medication,Recovery,2020-05-09,26023.48,Yes
+807973,50,Non-binary,Caucasian,North Chrisbury,COVID-19,1272-12-08,10,1,6,Physical Therapy,Relapse,2022-05-10,14380.58,No
+496072,38,Non-binary,Caucasian,Santiagoside,High Blood Pressure,1483-11-15,4,5,6,Other,Ongoing Treatment,2021-02-05,4277.75,No
+836637,28,Male,Hispanic,Sextonmouth,High Blood Pressure,1659-11-02,9,4,2,Other,Recovery,2019-03-24,26831.56,Yes
+149685,35,Male,Hispanic,East Bradleyport,High Blood Pressure,2002-06-03,7,5,14,Physical Therapy,Recovery,2023-07-04,20718.3,No
+575569,79,Non-binary,African American,Patriciaborough,High Blood Pressure,1791-07-12,10,3,10,Other,Ongoing Treatment,2023-02-27,12861.17,No
+117554,49,Non-binary,Other,West Melissa,COVID-19,0827-08-12,10,1,13,Medication,Recovery,2023-09-27,9272.26,No
+974963,33,Male,Other,Lake Rebeccafort,Low Blood Pressure,1349-10-13,7,4,12,Medication,Ongoing Treatment,2021-04-14,33674.03,Yes
+545345,70,Female,Other,Donaldmouth,Eyesight Issues,1162-12-15,6,1,1,Medication,Relapse,2023-05-10,31414.74,No
+881931,58,Non-binary,Caucasian,Port Christopher,High Blood Pressure,1228-05-05,1,2,3,Physical Therapy,Ongoing Treatment,2022-08-23,35148.32,No
+756553,44,Female,Hispanic,Lake Jason,Asthma,0798-03-29,9,3,5,Physical Therapy,Relapse,2020-10-14,11926.24,No
+498583,69,Non-binary,African American,Port Summer,Chickenpox,0340-07-28,0,4,4,Physical Therapy,Recovery,2023-10-01,34453.67,Yes
+397568,37,Male,Caucasian,Burnsshire,COVID-19,1184-04-05,7,0,7,Other,Relapse,2022-02-19,23690.93,Yes
+763747,64,Male,Other,Christopherland,Asthma,1251-09-13,4,4,0,Physical Therapy,Ongoing Treatment,2021-01-19,14793.0,No
+953690,67,Female,Other,West Caitlinmouth,High Blood Pressure,1734-11-03,6,3,11,Physical Therapy,Relapse,2021-11-07,35129.48,No
+542420,21,Non-binary,Other,New Jonathanville,High Blood Pressure,1332-08-13,7,1,7,Medication,Recovery,2022-11-22,24341.63,Yes
+456187,21,Female,Caucasian,Port Seanberg,Cancer,0665-10-01,8,1,13,Other,Relapse,2019-12-31,32342.78,No
+454267,30,Non-binary,Other,Greermouth,Diabetes,1811-01-24,10,4,4,Physical Therapy,Relapse,2020-09-21,19392.14,Yes
+742714,68,Male,Caucasian,Williamhaven,Cancer,0426-09-14,8,0,12,Other,Relapse,2023-09-13,29141.78,No
+577593,22,Non-binary,Other,Lake Christophermouth,COVID-19,1435-06-14,8,3,15,Medication,Recovery,2020-01-26,46898.56,Yes
+331982,48,Female,Caucasian,Vickieburgh,High Blood Pressure,1899-07-09,0,3,7,Physical Therapy,Ongoing Treatment,2023-07-08,15067.14,Yes
+148201,71,Female,Other,North Jimmyhaven,Low Blood Pressure,1789-10-28,2,3,0,Medication,Recovery,2019-03-28,35849.31,Yes
+944550,45,Female,Hispanic,North Kristine,Eyesight Issues,1858-08-08,6,1,13,Physical Therapy,Recovery,2021-09-03,21846.99,Yes
+491664,17,Female,Hispanic,South Kathryn,COVID-19,1324-06-02,2,1,3,Physical Therapy,Ongoing Treatment,2019-07-12,30512.26,Yes
+219411,53,Female,Other,Tarastad,COVID-19,1087-05-23,0,5,14,Physical Therapy,Ongoing Treatment,2022-01-01,35709.31,No
+962925,79,Non-binary,African American,South Alyssaland,COVID-19,1502-11-17,0,4,7,Physical Therapy,Relapse,2019-03-30,9832.72,No
+761838,74,Male,African American,Port Madisonland,Diabetes,0897-03-30,3,1,12,Physical Therapy,Recovery,2022-03-16,45248.83,No
+446076,40,Female,African American,New Dwaynefort,Diabetes,1680-01-27,3,1,3,Physical Therapy,Ongoing Treatment,2019-03-30,31449.36,Yes
+585893,47,Non-binary,Other,Lake Tommybury,Asthma,0581-06-11,6,5,11,Medication,Relapse,2023-06-29,48786.06,No
+448723,52,Female,Caucasian,West Anthonytown,Low Blood Pressure,0150-05-14,2,4,9,Physical Therapy,Ongoing Treatment,2018-11-07,39844.18,Yes
+472386,47,Female,Other,Nicolefurt,Cancer,0716-05-19,3,4,14,Medication,Recovery,2022-02-28,1127.07,No
+206579,58,Non-binary,Caucasian,New Andrew,Heart Attack,1684-08-20,6,5,15,Medication,Relapse,2022-01-01,42246.58,Yes
+457146,22,Male,Caucasian,Port Kimberlymouth,Eyesight Issues,0998-06-29,0,5,10,Other,Relapse,2021-05-15,46074.43,Yes
+237157,52,Female,Other,Port Anthonyport,Diabetes,1167-09-23,9,2,6,Medication,Recovery,2021-01-03,32130.95,No
+784302,62,Male,Hispanic,New Jamie,Diabetes,1131-11-15,7,4,7,Physical Therapy,Recovery,2020-06-26,3555.33,Yes
+181901,21,Female,Caucasian,Port Michael,Eyesight Issues,0120-06-20,5,2,7,Physical Therapy,Recovery,2023-02-27,37474.91,Yes
+809199,49,Female,Caucasian,Christianshire,Low Blood Pressure,0951-10-20,10,1,15,Other,Recovery,2023-07-16,17626.96,No
+807578,19,Non-binary,African American,South Sarahtown,COVID-19,0626-04-11,0,0,6,Medication,Recovery,2020-05-13,14150.55,Yes
+520393,63,Non-binary,Hispanic,Perkinstown,Heart Attack,1399-07-05,2,3,2,Physical Therapy,Relapse,2019-01-22,9961.78,No
+936645,33,Male,African American,Seanside,Low Blood Pressure,0896-07-07,9,0,14,Other,Ongoing Treatment,2020-05-08,25288.39,Yes
+922114,68,Non-binary,Caucasian,South Charlesburgh,Eyesight Issues,0253-10-21,3,5,0,Medication,Relapse,2020-10-06,37525.12,No
+565297,77,Non-binary,Hispanic,Zacharymouth,Eyesight Issues,1607-08-22,1,5,6,Other,Relapse,2021-09-26,23459.34,No
+766281,47,Non-binary,Other,New Stevenhaven,Eyesight Issues,0213-06-22,5,3,5,Physical Therapy,Ongoing Treatment,2023-01-25,17531.86,No
+194558,43,Male,African American,Lake Masonburgh,COVID-19,1305-10-05,5,5,15,Medication,Recovery,2023-08-14,6954.93,Yes
+310080,17,Female,Other,Ronaldfurt,Low Blood Pressure,1481-12-27,2,2,8,Other,Ongoing Treatment,2022-09-14,12607.3,Yes
+167779,39,Non-binary,Hispanic,Port David,Heart Attack,0860-09-25,6,2,9,Medication,Recovery,2023-01-19,35278.04,Yes
+255064,16,Female,African American,Jacksontown,Asthma,1492-01-18,4,2,2,Other,Recovery,2020-01-30,31620.21,No
+187620,54,Male,African American,South Cheyenne,COVID-19,1547-07-02,9,4,9,Medication,Recovery,2019-01-24,37903.15,Yes
+409548,42,Female,Caucasian,Benjaminborough,High Blood Pressure,1205-03-24,0,5,4,Other,Relapse,2019-11-02,34682.15,No
+641898,80,Male,Hispanic,Toddmouth,Diabetes,1363-11-02,10,0,0,Medication,Recovery,2022-10-08,8640.36,Yes
